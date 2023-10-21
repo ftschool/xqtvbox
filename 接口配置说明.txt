@@ -1,7 +1,7 @@
 手机使用请将XQTVBox目录解压到手机根目录
 
 小青XQ规则（支持海阔视界推送）
-clan://localhost/XQTVBox/XYQTVBox.json
+clan://localhost/XQTVBox/XQTVBox.json
 
 道长JS规则
 clan://localhost/XQTVBox/drpy_js/drjs_config.json
