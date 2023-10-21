@@ -1,6 +1,6 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./custom_spider.jar",
+    "spider": "./XQ.jar;md5;f91ba72d2516a995da86b7321440c653",
     "lives": [
         {"name": "电视直播", 
 "type": 0,
