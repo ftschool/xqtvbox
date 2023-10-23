@@ -1,6 +1,7 @@
 {
     "wallpaper": "https://picsum.photos/1280/720/?blur=2",
     "spider": "./custom_spider.jar",
+    "warningText":"如有问题，空余时间维护",
     "lives": [
         {"name": "电视直播", 
 "type": 0,
