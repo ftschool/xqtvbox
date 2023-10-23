@@ -24,7 +24,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 东方卫视,http://222.71.90.218:8888/newlive/live/hls/19/live.m3u8
 天津卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
-重庆卫视,https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
+重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 吉林卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 辽宁卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
