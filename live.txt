@@ -63,7 +63,7 @@ CCTV-16 4K,https://cntv.sbs/tv?auth=2310201855&id=cctv164k
 教育卫视,#genre#
 CETV1综合教育频道,https://cntv.sbs/tv?auth=2310201855&id=cetv1
 CETV2教育教学频道,https://cntv.sbs/tv?auth=2310201855&id=cetv2
-CETV3北京地面频道,https://cntv.sbs/tv?auth=2310201855&id=cetv3
+CETV3北京地面频道,https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/b40d2d17a4-0-0-a994678a88638dad3abc123266f18c17/index.m3u8
 CETV4空中课堂频道,https://cntv.sbs/tv?auth=2310201855&id=cetv4
 
 地方卫视,#genre#
