@@ -10,7 +10,7 @@
     "搜索片单标题": "a[data-type=ali]&&data-title",
     "搜索片单链接": "",
     "搜索片单副标题": "",
-    "搜索片单链接加前缀": "https://www.alipansou.com/open/other/",
+    "搜索片单链接加前缀": "https://www.alipansou.com",
     "搜索片单链接加后缀": "",
     "详情是否Jsoup写法": "1",
     "类型详情": "",
