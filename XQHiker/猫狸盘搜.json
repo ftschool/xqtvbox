@@ -8,7 +8,7 @@
     "搜索片单是否Jsoup写法": "1",
     "搜索片单图片": "",
     "搜索片单标题": "a[data-type=ali]&&data-title",
-    "搜索片单链接": "a:contains(阿里)&&data-url",
+    "搜索片单链接": "",
     "搜索片单副标题": "",
     "搜索片单链接加前缀": "https://www.alipansou.com/open/other/",
     "搜索片单链接加后缀": "",
