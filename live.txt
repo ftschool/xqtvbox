@@ -186,5 +186,4 @@ CCTV-4K 超高清,https://cntv.lat/tv?auth=202311030915&id=cctv4k
 西藏藏语卫视,https://cntv.lat/tv?auth=202311030915&id=xzzyws
 
 教育卫视,#genre#
-CETV1,http://angtv.cc/jd/gdlz.php?id=cetv1
 CETV1,https://cntv.lat/tv?auth=202311030915&id=cetv1
