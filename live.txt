@@ -45,3 +45,28 @@ CCTV-16 奥林匹克,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u
 CCTV-16 奥林匹克,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV-17 农业农村,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV-4K 超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+
+省级卫视,#genre#
+北京卫视,http://mqiptv.com:8014/ch/bjws/mqlive.m3u8
+北京卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/bjwshd8m/8000000/mnf.m3u8
+东方卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+东方卫视,http://jltpc.x3322.net:9901/tsfile/live/0107_1.m3u8?key=txiptv
+东方卫视,http://mqiptv.com:8014/ch/dfws/mqlive.m3u8
+天津卫视,http://mqiptv.com:8014/ch/tjws/mqlive.m3u8
+天津卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/tianjinHD/__op/default/__f/index.m3u8
+天津卫视,https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/c10d51d64c-0-0-eb4f25a76a7509a0131dd64742139be4/index.m3u8
+天津卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://mqiptv.com:8014/ch/cqws/mqlive.m3u8
+重庆卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/cqws8m/8000000/mnf.m3u8
+重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5255a86445-0-0-4ce4f2e82145e9bc39b5b4ccd7cce4a0/index.m3u8
+重庆卫视,http://api2.52tb.xyz/info?id=37&token=20230326xflvzc
+黑龙江卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/hljwshd8m/8000000/mnf.m3u8
+黑龙江卫视,http://mqiptv.com:8014/ch/hljws/mqlive.m3u8
+黑龙江卫视,https://iptv.luas.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/62f40ca683-0-0-8f0a9a264759754e90aa804bf7e9f8a8/index.m3u8
+吉林卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,https://cntv.lat/tv?auth=202311030915&id=jlws
+辽宁卫视,http://mqiptv.com:8014/ch/lnws/mqlive.m3u8
+辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bdc834c533-0-0-aefef0ed39d19073554f1c7e80a25cbc/index.m3u8
+内蒙古卫视,http://jltpc.x3322.net:9901/tsfile/live/0109_1.m3u8?key=txiptv
+内蒙古卫视,http://gmxw.7766.org:808/hls/60/index.m3u8
+内蒙古卫视,https://cntv.lat/tv?auth=202311030915&id=nmws
