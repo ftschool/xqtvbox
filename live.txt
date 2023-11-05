@@ -30,7 +30,6 @@ CCTV-7 国防军事,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
 CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8 电视剧,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-CCTV-8 电视剧,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
 CCTV-8 电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9 纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
