@@ -187,3 +187,7 @@ CCTV-4K 超高清,https://cntv.lat/tv?auth=202311030915&id=cctv4k
 
 教育卫视,#genre#
 CETV1,https://cntv.lat/tv?auth=202311030915&id=cetv1
+CETV2,https://cntv.lat/tv?auth=202311030915&id=cetv2
+CETV3,https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/b40d2d17a4-0-0-a994678a88638dad3abc123266f18c17/index.m3u8
+CETV3,https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f665915b0-0-0-08b800b5bdd1f6d3f61a673c5eb1afec/index.m3u8
+CETV4,https://cntv.lat/tv?auth=202311030915&id=cetv4
