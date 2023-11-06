@@ -8,11 +8,11 @@ CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2 财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV-2 财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-CCTV-3 综艺,http://113.100.193.10:9901/tsfile/live/0003_1.m3u8
+CCTV-3 综艺,http://angtv.cc/jd/gdlz.php?id=cctv3
 CCTV-3 综艺,https://cntv.lat/tv?auth=202311030915&id=cctv3
-CCTV-4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4 中文国际,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 CCTV-4 中文国际,https://cntv.lat/tv?auth=202311030915&id=cctv4
+CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV-4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
@@ -135,7 +135,6 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 山东卫视,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://mqiptv.com:8014/ch/sdws/mqlive.m3u8
 山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/dd6f0a43db-0-0-63f6f29dcc6843fd6b50323d4bfc8b09/index.m3u8
-山东卫视,http://api2.52tb.xyz/info?id=30&token=20230326xflvzc
 安徽卫视,http://180.97.247.27:8088/liveplay-kk.rtxapp.com/live/program/live/ahwshd8m/8000000/mnf.m3u8
 安徽卫视,http://mqiptv.com:8014/ch/ahws/mqlive.m3u8
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
@@ -413,3 +412,20 @@ Astrakhan24,http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+
+18+,#genre#
+BRAZZERS [18+]：http://23.237.100.82:8000/BRAZZERS/index.m3u8
+Desire [18+]：http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
+Hustler [18+]：http://23.237.100.82:8000/HUSTLER/index.m3u8
+Miami TV [18+]：https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/chunklist_w131582150_b1896000.m3u8
+Miami TV [18+]：http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8
+Miami TV [18+]：https://59ec5453559f0.streamlock.net/JennyLive/smil:WEB/playlist.m3u8
+Miami TV Jenny Live [18+]：http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+Miami TV Jenny for You [18+]：https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+PENTHOUSE [18+]：http://23.237.100.82:8000/PENTHOUSE/index.m3u8
+PENTHOUSE GOLD [18+]: http://51.159.102.100/PenthouseGold/index.m3u8
+PLAYBOY [18+]：http://23.237.100.82:8000/PLAYBOY/index.m3u8
+PLAYBOY LIVE [18+]：http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+PURETABOO [18+]：http://78.47.224.234/puretaboo/index.m3u8
+Redlight [18+]：http://51.159.102.100/RedlightHD/index.m3u8
+TV8 [18+]：http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8
