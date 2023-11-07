@@ -9,7 +9,12 @@ CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3
 CCTV-2 财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV-2 财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 CCTV-3 综艺,http://angtv.cc/jd/gdlz.php?id=cctv3
+CCTV-3 综艺,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV-3 综艺,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
 CCTV-3 综艺,https://cntv.lat/tv?auth=202311030915&id=cctv3
+CCTV-4 中文国际,http://111.20.40.164:80/PLTV/88888893/224/3221226191/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,683&prioritypopid=1
+CCTV-4 中文国际,http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8
+CCTV-4 中文国际,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
 CCTV-4 中文国际,https://cntv.lat/tv?auth=202311030915&id=cctv4
 CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
@@ -23,6 +28,8 @@ CCTV-5+ 体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV-5+ 体育赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-6 电影,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV-6 电影,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+CCTV-6 电影,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
 CCTV-6 电影,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV-6 电影,https://cntv.lat/tv?auth=202311030915&id=cctv6
 CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
