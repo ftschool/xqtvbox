@@ -6,17 +6,20 @@ CCTV-1 综合,http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
 CCTV-1 综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV-1 综合,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
 CCTV-1 综合,http://jltpc.x3322.net:9901/tsfile/live/0001_1.m3u8?key=txiptv
+CCTV-1 综合,http://mqiptv.com:8014/ch/cctv1/mqlive.m3u8
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
 CCTV-2 财经,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV-2 财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 CCTV-2 财经,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 CCTV-2 财经,http://jltpc.x3322.net:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-2 财经,http://mqiptv.com:8014/ch/cctv2/mqlive.m3u8
 CCTV-3 综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV-3 综艺,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV-3 综艺,http://221.213.43.82:8888/newlive/live/hls/4/live.m3u8
 CCTV-3 综艺,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
 CCTV-3 综艺,http://jltpc.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV-3 综艺,http://mqiptv.com:8014/ch/cctv3/mqlive.m3u8
 CCTV-4 中文国际,http://111.20.40.164:80/PLTV/88888893/224/3221226191/index.m3u8?icpid=88888893&from=1&popid=1&hms_devid=844,683&prioritypopid=1
 CCTV-4 中文国际,http://221.213.43.82:8888/newlive/live/hls/5/live.m3u8
 CCTV-4 中文国际,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
@@ -24,6 +27,7 @@ CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890
 CCTV-4 中文国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4 中文国际,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
 CCTV-4 中文国际,http://jltpc.x3322.net:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV-4 中文国际,http://mqiptv.com:8014/ch/cctv4/mqlive.m3u8
 CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
@@ -31,17 +35,20 @@ CCTV-5 体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV-5 体育,http://220.178.228.153:1935/live/cctv5/playlist.m3u8
 CCTV-5 体育,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
 CCTV-5 体育,http://jltpc.x3322.net:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV-5 体育,http://mqiptv.com:8014/ch/cctv5/mqlive.m3u8
 CCTV-5+ 体育赛事,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/7feb0d1939-0-0-8c1976faa898233b38389c5a90f804c2/index.m3u8
 CCTV-5+ 体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV-5+ 体育赛事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 CCTV-5+ 体育赛事,http://jltpc.x3322.net:9901/tsfile/live/0016_1.m3u8?key=txiptv
+CCTV-5+ 体育赛事,http://mqiptv.com:8014/ch/cctv5p/mqlive.m3u8
 CCTV-6 电影,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/113ed89f48-0-0-85216e55861329ec31ba1437a2ff37c9/index.m3u8
 CCTV-6 电影,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
 CCTV-6 电影,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV-6 电影,http://221.213.43.82:8888/newlive/live/hls/8/live.m3u8
 CCTV-6 电影,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://jltpc.x3322.net:9901/tsfile/live/0006_1.m3u8?key=txiptv
+CCTV-6 电影,http://mqiptv.com:8014/ch/cctv6/mqlive.m3u8
 CCTV-7 国防军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-7 国防军事,http://1.195.111.251:11190/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
@@ -49,22 +56,26 @@ CCTV-7 国防军事,http://221.213.43.82:8888/newlive/live/hls/9/live.m3u8
 CCTV-7 国防军事,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
 CCTV-7 国防军事,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/4ba629f762-0-0-0a66b18805ff859ce68ab1137157079e/index.m3u8
 CCTV-7 国防军事,http://jltpc.x3322.net:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV-7 国防军事,http://mqiptv.com:8014/ch/cctv7/mqlive.m3u8
 CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV-8 电视剧,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
 CCTV-8 电视剧,http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
 CCTV-8 电视剧,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
 CCTV-8 电视剧,http://jltpc.x3322.net:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV-8 电视剧,http://mqiptv.com:8014/ch/cctv8/mqlive.m3u8
 CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9 纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-9 纪录,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
 CCTV-9 纪录,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/a1920294b0-0-0-f3b9b294fd2e3c4db85f962e6949c4a1/index.m3u8
 CCTV-9 纪录,http://jltpc.x3322.net:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV-9 纪录,http://mqiptv.com:8014/ch/cctv9/mqlive.m3u8
 CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-10 科教,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
 CCTV-10 科教,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
 CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV-10 科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV-10 科教,http://jltpc.x3322.net:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-10 科教,http://mqiptv.com:8014/ch/cctv10/mqlive.m3u8
 CCTV-11 戏曲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
 CCTV-11 戏曲,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
 CCTV-11 戏曲,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
@@ -77,6 +88,7 @@ CCTV-12 社会与法,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/
 CCTV-12 社会与法,http://221.213.43.82:8888/newlive/live/hls/14/live.m3u8
 CCTV-12 社会与法,http://jltpc.x3322.net:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV-12 社会与法,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
+CCTV-12 社会与法,http://mqiptv.com:8014/ch/cctv12/mqlive.m3u8
 CCTV-13 新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV-13 新闻,https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
@@ -87,6 +99,7 @@ CCTV-14 少儿,https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
 CCTV-14 少儿,http://1.195.111.251:11190/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
 CCTV-14 少儿,http://jltpc.x3322.net:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV-14 少儿,http://mqiptv.com:8014/ch/cctv14/mqlive.m3u8
 CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV-15 音乐,http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
@@ -99,6 +112,7 @@ CCTV-17 农业农村,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV-17 农业农村,http://113.100.193.10:9901/tsfile/live/0016_1.m3u8
 CCTV-17 农业农村,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 CCTV-17 农业农村,http://jltpc.x3322.net:9901/tsfile/live/1042_1.m3u8?key=txiptv
+CCTV-17 农业农村,http://mqiptv.com:8014/ch/cctv17/mqlive.m3u8
 CCTV-4K 超高清,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV-4K 超高清,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV-4K 超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
@@ -135,6 +149,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 吉林卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
 吉林卫视,http://jltpc.x3322.net:9901/tsfile/live/0116_1.m3u8?key=txiptv
 吉林卫视,http://58.220.219.14:9901/tsfile/live/0116_1.m3u8?key=txiptv
+吉林卫视,http://mqiptv.com:8014/ch/jlws/mqlive.m3u8
 辽宁卫视,http://jltpc.x3322.net:9901/tsfile/live/0121_1.m3u8?key=txiptv
 辽宁卫视,http://mqiptv.com:8014/ch/lnws/mqlive.m3u8
 辽宁卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/liaoningHD/__op/default/__f/index.m3u8
@@ -154,11 +169,11 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 甘肃卫视,http://58.220.219.14:9901/tsfile/live/0141_1.m3u8?key=txiptv
 甘肃卫视,http://mqiptv.com:8014/ch/gsws/mqlive.m3u8
 甘肃卫视,https://iptv.luas.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/d46f4f77ca-0-0-3b64a6fd708d6eeeb0e60461ad736b78/index.m3u8
-青海卫视,http://mqiptv.com:8014/ch/qhws/mqlive.m3u8
 青海卫视,http://jltpc.x3322.net:9901/tsfile/live/0140_1.m3u8?key=txiptv
 青海卫视,http://gmxw.7766.org:808/hls/61/index.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 青海卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8
+青海卫视,http://mqiptv.com:8014/ch/qhws/mqlive.m3u8
 陕西卫视,http://jltpc.x3322.net:9901/tsfile/live/0136_1.m3u8?key=txiptv
 陕西卫视,http://gmxw.7766.org:808/hls/58/index.m3u8
 陕西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8
@@ -169,7 +184,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 河北卫视,http://221.2.36.34:8888/newlive/live/hls/46/live.m3u8
 河北卫视,http://angtv.cc/test/lngd.php?id=108
 河北卫视,http://jltpc.x3322.net:9901/tsfile/live/0117_1.m3u8?key=txiptv
-山西卫视,http://mqiptv.com:8014/ch/sxws/mqlive.m3u8
+河北卫视,http://mqiptv.com:8014/ch/hebeiws/mqlive.m3u8
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 山西卫视,http://221.213.43.82:8888/newlive/live/hls/48/live.m3u8
 山西卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
@@ -177,6 +192,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 山西卫视,http://jltpc.x3322.net:9901/tsfile/live/0118_1.m3u8?key=txiptv
 山西卫视,http://gmxw.7766.org:808/hls/59/index.m3u8
 山西卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/shanxiSD/__op/default/__f/index.m3u8
+山西卫视,http://mqiptv.com:8014/ch/sxws/mqlive.m3u8
 山东卫视,http://jltpc.x3322.net:9901/tsfile/live/0131_1.m3u8?key=txiptv
 山东卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 山东卫视,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8
@@ -191,12 +207,14 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 河南卫视,http://221.2.36.34:8888/newlive/live/hls/33/live.m3u8
 河南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8
 河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
+河南卫视,http://mqiptv.com:8014/ch/hnws/mqlive.m3u8
 湖北卫视,https://iptv.luas.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/09ef2cf7aa-0-0-41178ff5e45faa352937baadccc115df/index.m3u8
 湖北卫视,http://jltpc.x3322.net:9901/tsfile/live/0132_1.m3u8?key=txiptv
 湖北卫视,http://gmxw.7766.org:808/hls/46/index.m3u8
 湖北卫视,http://58.220.219.14:9901/tsfile/live/0132_1.m3u8?key=txiptv
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
 湖北卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
+湖北卫视,http://mqiptv.com:8014/ch/hbws/mqlive.m3u8
 湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://jltpc.x3322.net:9901/tsfile/live/0117_2.m3u8?key=txiptv
 湖南卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -205,14 +223,15 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 湖南卫视,http://58.220.219.14:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 湖南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/hunanHD/__op/default/__f/index.m3u8
-江西卫视,http://mqiptv.com:8014/ch/jxws/mqlive.m3u8
 江西卫视,http://jltpc.x3322.net:9901/tsfile/live/0138_1.m3u8?key=txiptv
 江西卫视,https://iptv.luas.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/74d69d122b-0-0-db9e2346ab702f9e87c09d7de7b9d5d0/index.m3u8
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
+江西卫视,http://mqiptv.com:8014/ch/jxws/mqlive.m3u8
 江苏卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/jiangsuHD/__op/default/__f/index.m3u8
 江苏卫视,https://iptv.luas.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/8c0352e42d-0-0-2529f61c8f420136013f1ab8a93169c3/index.m3u8
 江苏卫视,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,http://jltpc.x3322.net:9901/tsfile/live/0127_1.m3u8?key=txiptv
+江苏卫视,http://mqiptv.com:8014/ch/jsws/mqlive.m3u8
 浙江卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/zhejiangHD/__op/default/__f/index.m3u8
 浙江卫视,http://jltpc.x3322.net:9901/tsfile/live/0124_1.m3u8?key=txiptv
 浙江卫视,http://58.220.219.14:9901/tsfile/live/0124_1.m3u8?key=txiptv
@@ -240,20 +259,22 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 广西卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
 广西卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,http://222.71.90.218:8888/newlive/live/hls/40/live.m3u8
+广西卫视,http://mqiptv.com:8014/ch/gxws/mqlive.m3u8
 云南卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
 云南卫视,http://222.71.90.218:8888/newlive/live/hls/39/live.m3u8
 云南卫视,http://jltpc.x3322.net:9901/tsfile/live/0119_2.m3u8?key=txiptv
 云南卫视,https://iptv.luas.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/3f1dcf4cf3-0-0-3f0618b5bab73c0ebb1be6c66ccbf65d/index.m3u8
+云南卫视,http://mqiptv.com:8014/ch/ynws/mqlive.m3u8
 贵州卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/guizhouHD/__op/default/__f/index.m3u8
 贵州卫视,http://jltpc.x3322.net:9901/tsfile/live/0120_1.m3u8?key=txiptv
+贵州卫视,http://mqiptv.com:8014/ch/gzws/mqlive.m3u8
 四川卫视,http://jltpc.x3322.net:9901/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://221.2.36.34:8888/newlive/live/hls/32/live.m3u8
 四川卫视,http://58.220.219.14:9901/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/027c826f0e-0-0-4caf8e44f0157ea591d8857569b9a2c3/index.m3u8
-康巴卫视,http://111.202.12.159:8080/kYGHWzA/1000/live.m3u8
-康巴卫视,http://111.202.12.159:8080/3zvkK28/1000/live.m3u8
+四川卫视,http://mqiptv.com:8014/ch/scws/mqlive.m3u8
 海南卫视,http://jltpc.x3322.net:9901/tsfile/live/0114_1.m3u8?key=txiptv
 海南卫视,http://221.2.36.34:8888/newlive/live/hls/47/live.m3u8
 海南卫视,http://gmxw.7766.org:808/hls/124/index.m3u8
@@ -267,6 +288,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 新疆卫视,http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv
 新疆卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/xinjiangSD/__op/default/__f/index.m3u8
 新疆卫视,https://iptv.luas.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/da8869bb58-0-0-456269e3068e187c614daaeee51bb7fb/index.m3u8
+新疆卫视,http://mqiptv.com:8014/ch/xjws/mqlive.m3u8
 兵团卫视,http://jltpc.x3322.net:9901/tsfile/live/0115_1.m3u8?key=txiptv
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 兵团卫视,http://gmxw.7766.org:808/hls/7/index.m3u8
@@ -277,6 +299,7 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 西藏卫视,http://gmxw.7766.org:808/hls/64/index.m3u8
 西藏卫视,http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv
 西藏卫视,https://iptv.luas.edu.cn/liverespath/223db5dc75cab2536cbebcda8e6730ff6bf58309/1bfac15764-0-0-ba9d0108d3699dca4649eed2ed54fbcb/index.m3u8
+西藏卫视,http://mqiptv.com:8014/ch/xzws/mqlive.m3u8
 
 地方卫视,#genre#
 长影频道,http://jltpc.x3322.net:9901/tsfile/live/1010_1.m3u8?key=txiptv
@@ -294,8 +317,6 @@ CCTV-16 4K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221
 内蒙古少儿频道,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
 内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 内蒙古农牧频道,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
-内蒙古蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
-内蒙古蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 云南影视,http://mqiptv.com:8014/ch/custom20/mqlive.m3u8
 云南娱乐,http://mqiptv.com:8014/ch/custom22/mqlive.m3u8
 云南都市,http://mqiptv.com:8014/ch/custom25/mqlive.m3u8
@@ -310,7 +331,7 @@ CHC家庭影院,http://hls.live.cqccn.com/__cl/cg:live/__c/chcjtyyHD/__op/defaul
 CHC家庭影院,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 
 港澳台卫视,#genre#
-凤凰中文,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰资讯,http://php.17186.eu.org:80/phtv/fhzx.m3u8
 凤凰资讯,http://113.117.74.28:8081/hls/36/index.m3u8
 翡翠台,http://protv.fun/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
