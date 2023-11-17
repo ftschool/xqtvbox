@@ -2,7 +2,6 @@
 CCTV-1 综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1 综合,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-CCTV-1 综合,http://42.176.185.28:9901/tsfile/live/1022_1.m3u8
 CCTV-1 综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV-1 综合,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
 CCTV-1 综合,http://jltpc.x3322.net:9901/tsfile/live/0001_1.m3u8?key=txiptv
