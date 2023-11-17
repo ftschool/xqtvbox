@@ -351,6 +351,7 @@ DaAi2 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 纪实人文,http://gmxw.7766.org:808/hls/173/index.m3u8
 动漫秀场,http://jltpc.x3322.net:9901/tsfile/live/1020_1.m3u8?key=txiptv
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+欢笑剧场 4K,https://live.goodiptv.club/api/cqyx.php?id=hxjc_4K
 欢笑剧场 4K,http://wd.shadowzen.xyz/tvphp/cqyx2.php?id=hxjc_4K
 都市剧场,http://jltpc.x3322.net:9901/tsfile/live/1005_1.m3u8?key=txiptv
 游戏风云,http://jltpc.x3322.net:9901/tsfile/live/1019_1.m3u8?key=txiptv
