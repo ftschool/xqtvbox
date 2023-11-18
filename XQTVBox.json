@@ -29,6 +29,7 @@
         {"key": "csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/DOVX搜索.json"},
         {"key": "csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/盘搜索.json"},
         {"key": "盘搜","name": "📀盘搜(搜索)","type": 3,"api": "csp_PanSou","searchable": 1,"changeable": 0,"jar": "https://tvbox.cainisi.cf/jar/fm1113.jar;md5;18d6103e01c3865caeb7a23e627adb3c"},
+        {"key":"LIBVIO影视","name":"LIBVIO┃影视","type":3,"api":"https://drpy.cainisi.cf/libs/drpy2.min.js","searchable":1,"changeable":1,"ext":"https://drpy.cainisi.cf/js/LIBVIO.js"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         //磁力资源区
         {"key": "csp_Mp4Mov","name": "🧲Mp4电影","type": 3,"api": "csp_Mp4Mov","searchable": 1,"quickSearch": 1,"filterable": 1},
