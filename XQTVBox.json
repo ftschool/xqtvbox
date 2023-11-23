@@ -31,7 +31,7 @@
         {"key":"盘搜","name":"📀盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"jar":"./fm1113.jar","ext":"./alitoken.txt"},
         {"key":"云盘论坛","name":"📀阿里论坛","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘论坛.json"},
         {"key":"云盘分享社","name":"📀阿里分享社","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
-        {"key":"阿里苏苏","name":"❤️阿里｜苏苏","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
+        {"key":"阿里苏苏","name":"📀阿里苏苏","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         //磁力资源区
         {"key":"csp_Mp4Mov","name":"🧲Mp4电影","type":3,"api": "csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
