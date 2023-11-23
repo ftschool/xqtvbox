@@ -120,6 +120,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
 北京卫视,http://jltpc.x3322.net:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/beijingHD/__op/default/__f/index.m3u8
+北京卫视,http://222.71.90.218:8888/newlive/live/hls/18/live.m3u8
 东方卫视,http://39.136.17.147/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
 东方卫视,http://58.220.219.14:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
