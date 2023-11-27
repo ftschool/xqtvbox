@@ -1,5 +1,4 @@
 央视卫视,#genre#
-CCTV-1 综合,http://221.224.4.170:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV-1 综合,https://cfyy.cc/ds/ysp/qp.php?id=cctv1
 CCTV-1 综合,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV-1 综合,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
@@ -14,7 +13,7 @@ CCTV-1 综合,http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/32212267
 CCTV-1 综合,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
 CCTV-1 综合,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
 CCTV-1 综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
-CCTV-2 财经,http://221.224.4.170:9901/tsfile/live/0002_1.m3u8?key=txiptv
+CCTV-1 综合,http://221.224.4.170:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV-2 财经,https://cfyy.cc/ds/ysp/qp.php?id=cctv2
 CCTV-2 财经,http://111.13.111.242/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
 CCTV-2 财经,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
@@ -27,7 +26,7 @@ CCTV-2 财经,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226
 CCTV-2 财经,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
 CCTV-2 财经,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 CCTV-2 财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
-CCTV-3 综艺,http://221.224.4.170:9901/tsfile/live/0003_1.m3u8?key=txiptv
+CCTV-2 财经,http://221.224.4.170:9901/tsfile/live/0002_1.m3u8?key=txiptv
 CCTV-3 综艺,https://cfyy.cc/ds/ysp/qp.php?id=cctv3
 CCTV-3 综艺,http://111.20.40.173/TVOD/88888893/224/3221226397/1.m3u8
 CCTV-3 综艺,http://111.20.40.172/TVOD/88888893/224/3221226397/1.m3u8
@@ -45,7 +44,7 @@ CCTV-3 综艺,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226
 CCTV-3 综艺,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
 CCTV-3 综艺,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
 CCTV-3 综艺,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
-CCTV-4 中文国际,http://221.224.4.170:9901/tsfile/live/0004_1.m3u8?key=txiptv
+CCTV-3 综艺,http://221.224.4.170:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV-4 中文国际,https://cfyy.cc/ds/ysp/qp.php?id=cctv4
 CCTV-4 中文国际,http://111.13.111.242/000000001000PLTV/88888888/224/3221236202/1.m3u8?HlsProfileId=
 CCTV-4 中文国际,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
@@ -59,7 +58,7 @@ CCTV-4 中文国际,http://jltpc.x3322.net:9901/tsfile/live/0004_1.m3u8?key=txip
 CCTV-4 中文国际,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
 CCTV-4 中文国际,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
 CCTV-4 中文国际,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
-CCTV-5 体育,http://221.224.4.170:9901/tsfile/live/0005_1.m3u8?key=txiptv
+CCTV-4 中文国际,http://221.224.4.170:9901/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV-5 体育,https://cfyy.cc/ds/ysp/qp.php?id=cctv5
 CCTV-5 体育,http://111.20.40.173/TVOD/88888893/224/3221226395/1.m3u8
 CCTV-5 体育,http://111.20.40.172/TVOD/88888893/224/3221226395/1.m3u8
@@ -87,6 +86,7 @@ CCTV-5 体育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226
 CCTV-5 体育,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3939139141_-877857276/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8
 CCTV-5 体育,https://iptv.luas.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/d576df8c0b-0-0-2de19686e2172f351d6e90c142a0be07/index.m3u8
 CCTV-5 体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV-5 体育,http://221.224.4.170:9901/tsfile/live/0005_1.m3u8?key=txiptv
 CCTV-5+ 体育赛事,https://cfyy.cc/ds/ysp/qp.php?id=cctv5p
 CCTV-5+ 体育赛事,http://42.53.68.178:9901/tsfile/live/0016_1.m3u8?key=txiptv
 CCTV-5+ 体育赛事,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
@@ -98,7 +98,6 @@ CCTV-5+ 体育赛事,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c
 CCTV-5+ 体育赛事,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/503cc020ac-0-0-1302b6eda0d18832e18611c25ddded2d/index.m3u8
 CCTV-5+ 体育赛事,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/7feb0d1939-0-0-8c1976faa898233b38389c5a90f804c2/index.m3u8
 CCTV-5+ 体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
-CCTV-6 电影,http://221.224.4.170:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-6 电影,https://cfyy.cc/ds/ysp/qp.php?id=cctv6
 CCTV-6 电影,http://111.20.40.173/TVOD/88888893/224/3221226393/1.m3u8
 CCTV-6 电影,http://111.20.40.172/TVOD/88888893/224/3221226393/1.m3u8
@@ -116,7 +115,7 @@ CCTV-6 电影,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226
 CCTV-6 电影,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
 CCTV-6 电影,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/113ed89f48-0-0-85216e55861329ec31ba1437a2ff37c9/index.m3u8
 CCTV-6 电影,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
-CCTV-7 国防军事,http://221.224.4.170:9901/tsfile/live/0007_1.m3u8?key=txiptv
+CCTV-6 电影,http://221.224.4.170:9901/tsfile/live/0006_1.m3u8?key=txiptv
 CCTV-7 国防军事,https://cfyy.cc/ds/ysp/qp.php?id=cctv7
 CCTV-7 国防军事,http://111.13.111.242/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
 CCTV-7 国防军事,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
@@ -129,7 +128,7 @@ CCTV-7 国防军事,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3
 CCTV-7 国防军事,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
 CCTV-7 国防军事,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/4ba629f762-0-0-0a66b18805ff859ce68ab1137157079e/index.m3u8
 CCTV-7 国防军事,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
-CCTV-8 电视剧,http://221.224.4.170:9901/tsfile/live/0008_1.m3u8?key=txiptv
+CCTV-7 国防军事,http://221.224.4.170:9901/tsfile/live/0007_1.m3u8?key=txiptv
 CCTV-8 电视剧,https://cfyy.cc/ds/ysp/qp.php?id=cctv8
 CCTV-8 电视剧,http://111.20.40.173/TVOD/88888893/224/3221226391/1.m3u8
 CCTV-8 电视剧,http://111.20.40.172/TVOD/88888893/224/3221226391/1.m3u8
@@ -147,7 +146,7 @@ CCTV-8 电视剧,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221
 CCTV-8 电视剧,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2243817462_1836799824/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985
 CCTV-8 电视剧,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
 CCTV-8 电视剧,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
-CCTV-9 纪录,http://221.224.4.170:9901/tsfile/live/0009_1.m3u8?key=txiptv
+CCTV-8 电视剧,http://221.224.4.170:9901/tsfile/live/0008_1.m3u8?key=txiptv
 CCTV-9 纪录,https://cfyy.cc/ds/ysp/qp.php?id=cctv9
 CCTV-9 纪录,http://111.13.111.242/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
 CCTV-9 纪录,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
@@ -161,7 +160,7 @@ CCTV-9 纪录,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226
 CCTV-9 纪录,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
 CCTV-9 纪录,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/a1920294b0-0-0-f3b9b294fd2e3c4db85f962e6949c4a1/index.m3u8
 CCTV-9 纪录,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
-CCTV-10 科教,http://221.224.4.170:9901/tsfile/live/0010_1.m3u8?key=txiptv
+CCTV-9 纪录,http://221.224.4.170:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV-10 科教,https://cfyy.cc/ds/ysp/qp.php?id=cctv10
 CCTV-10 科教,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
 CCTV-10 科教,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
@@ -173,6 +172,7 @@ CCTV-10 科教,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/322122
 CCTV-10 科教,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402_1265174830/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861
 CCTV-10 科教,https://iptv.luas.edu.cn/liverespath/924e6292a0e6f7440e8380075908fed9915b3c00/780499a193-0-0-c50d57fd93cf32a5144ec8d889eb3ed9/index.m3u8
 CCTV-10 科教,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV-10 科教,http://221.224.4.170:9901/tsfile/live/0010_1.m3u8?key=txiptv
 CCTV-11 戏曲,https://cfyy.cc/ds/ysp/qp.php?id=cctv11
 CCTV-11 戏曲,http://42.53.68.178:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-11 戏曲,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1585598366_-481653261/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073735&ContentId=265667429&timezone=UTC&mtv_session=4b2a1a34470a2292a3b6b8defdd19dc8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f5c6b917bd6664cd3abf93c9a779b8bf
@@ -183,7 +183,6 @@ CCTV-11 戏曲,http://jltpc.x3322.net:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-11 戏曲,http://39.165.35.152:9901/tsfile/live/0011_1.m3u8?key=txiptv
 CCTV-11 戏曲,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
 CCTV-11 戏曲,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
-CCTV-12 社会与法,http://221.224.4.170:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV-12 社会与法,https://cfyy.cc/ds/ysp/qp.php?id=cctv12
 CCTV-12 社会与法,http://111.13.111.242/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
 CCTV-12 社会与法,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
@@ -197,7 +196,7 @@ CCTV-12 社会与法,http://jltpc.x3322.net:9901/tsfile/live/0012_1.m3u8?key=txi
 CCTV-12 社会与法,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
 CCTV-12 社会与法,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
 CCTV-12 社会与法,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
-CCTV-13 新闻,http://221.224.4.170:9901/tsfile/live/0013_1.m3u8?key=txiptv
+CCTV-12 社会与法,http://221.224.4.170:9901/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV-13 新闻,https://cfyy.cc/ds/ysp/qp.php?id=cctv13
 CCTV-13 新闻,http://111.13.111.242/000000001000PLTV/88888888/224/3221236187/1.m3u8?HlsProfileId=
 CCTV-13 新闻,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
@@ -209,7 +208,7 @@ CCTV-13 新闻,http://58.220.219.14:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-13 新闻,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
 CCTV-13 新闻,http://jltpc.x3322.net:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-13 新闻,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
-CCTV-14 少儿,http://221.224.4.170:9901/tsfile/live/0014_1.m3u8?key=txiptv
+CCTV-13 新闻,http://221.224.4.170:9901/tsfile/live/0013_1.m3u8?key=txiptv
 CCTV-14 少儿,https://cfyy.cc/ds/ysp/qp.php?id=cctv14
 CCTV-14 少儿,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
 CCTV-14 少儿,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
@@ -222,6 +221,7 @@ CCTV-14 少儿,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/322122
 CCTV-14 少儿,http://jltpc.x3322.net:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV-14 少儿,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
 CCTV-14 少儿,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
+CCTV-14 少儿,http://221.224.4.170:9901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV-15 音乐,https://cfyy.cc/ds/ysp/qp.php?id=cctv15
 CCTV-15 音乐,http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
 CCTV-15 音乐,http://42.53.68.178:9901/tsfile/live/0015_1.m3u8?key=txiptv
@@ -231,7 +231,6 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 
 省级卫视,#genre#
-北京卫视,http://221.224.4.170:9901/tsfile/live/0122_1.m3u8?key=txiptv
 北京卫视,https://cfyy.cc/ds/ysp/qp.php?id=bjws
 北京卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
 北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
@@ -242,6 +241,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
 北京卫视,http://jltpc.x3322.net:9901/tsfile/live/0122_1.m3u8?key=txiptv
+北京卫视,http://221.224.4.170:9901/tsfile/live/0122_1.m3u8?key=txiptv
 东方卫视,https://cfyy.cc/ds/ysp/qp.php?id=dfws
 东方卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1588763278_-766408077/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=6b842c705e2cf7e9df14788ca8009ef5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=36ed1abbb2ec038b2f2303e58aea07a1
 东方卫视,http://221.224.4.170:9901/tsfile/live/0107_1.m3u8?key=txiptv
@@ -253,7 +253,6 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 东方卫视,http://jltpc.x3322.net:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0bc51b40df-0-0-23a64a0dc546104d1ba498a41ff49540/index.m3u8
 东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
-天津卫视,http://221.224.4.170:9901/tsfile/live/0135_1.m3u8?key=txiptv
 天津卫视,https://cfyy.cc/ds/ysp/qp.php?id=tjws
 天津卫视,http://120.196.232.41:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
 天津卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226686/1.m3u8
@@ -264,7 +263,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 天津卫视,http://jltpc.x3322.net:9901/tsfile/live/0135_1.m3u8?key=txiptv
 天津卫视,https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/c10d51d64c-0-0-eb4f25a76a7509a0131dd64742139be4/index.m3u8
 天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
-重庆卫视,http://221.224.4.170:9901/tsfile/live/0142_1.m3u8?key=txiptv
+天津卫视,http://221.224.4.170:9901/tsfile/live/0135_1.m3u8?key=txiptv
 重庆卫视,https://cfyy.cc/ds/ysp/qp.php?id=cqws
 重庆卫视,http://42.53.68.178:9901/tsfile/live/0142_1.m3u8?key=txiptv
 重庆卫视,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
@@ -275,7 +274,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5255a86445-0-0-4ce4f2e82145e9bc39b5b4ccd7cce4a0/index.m3u8
 重庆卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1589064099_-704327727/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262033&timezone=UTC&mtv_session=90df447b59006f4434fec2d4695f28a7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8bbc2e41f5b3f80d0b069addb6f1df46
 重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
-黑龙江卫视,http://221.224.4.170:9901/tsfile/live/0143_1.m3u8?key=txiptv
+重庆卫视,http://221.224.4.170:9901/tsfile/live/0142_1.m3u8?key=txiptv
 黑龙江卫视,https://cfyy.cc/ds/ysp/qp.php?id=hljws
 黑龙江卫视,http://120.196.232.24:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
 黑龙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226716/1.m3u8
@@ -285,7 +284,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 黑龙江卫视,http://jltpc.x3322.net:9901/tsfile/live/0143_1.m3u8?key=txiptv
 黑龙江卫视,https://iptv.luas.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/62f40ca683-0-0-8f0a9a264759754e90aa804bf7e9f8a8/index.m3u8
 黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
-吉林卫视,http://42.53.68.178:9901/tsfile/live/0116_1.m3u8?key=txiptv
+黑龙江卫视,http://221.224.4.170:9901/tsfile/live/0143_1.m3u8?key=txiptv
 吉林卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
 吉林卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226671/1.m3u8
 吉林卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1589344314_453295178/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262154&timezone=UTC&mtv_session=a8fd605fabf2ca0814b5a56aee04bc2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ec7257d80b3cd8e4a5590413a5e9cb93
@@ -293,7 +292,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 吉林卫视,http://jltpc.x3322.net:9901/tsfile/live/0116_1.m3u8?key=txiptv
 吉林卫视,http://gxdl-lhs.8866.org:85/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
-辽宁卫视,http://221.224.4.170:9901/tsfile/live/0121_1.m3u8?key=txiptv
+吉林卫视,http://42.53.68.178:9901/tsfile/live/0116_1.m3u8?key=txiptv
 辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 辽宁卫视,http://42.53.68.178:9901/tsfile/live/0121_1.m3u8?key=txiptv
 辽宁卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1589644797_1577190639/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=265669068&timezone=UTC&mtv_session=4adbe497fcc87ddaaa343726a3a14c13&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b336009b46cc80be11d75c763cb6fe70
@@ -303,6 +302,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 辽宁卫视,http://jltpc.x3322.net:9901/tsfile/live/0121_1.m3u8?key=txiptv
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bdc834c533-0-0-aefef0ed39d19073554f1c7e80a25cbc/index.m3u8
 辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
+辽宁卫视,http://221.224.4.170:9901/tsfile/live/0121_1.m3u8?key=txiptv
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,http://120.196.232.39:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
 内蒙古卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226685/1.m3u8
@@ -350,7 +350,6 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 陕西卫视,http://111.20.40.165/TVOD/88888893/224/3221226458/1.m3u8
 陕西卫视,http://111.20.40.172/TVOD/88888893/224/3221226458/1.m3u8
 陕西卫视,http://111.20.40.173/TVOD/88888893/224/3221226458/1.m3u8
-河北卫视,http://221.224.4.170:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226684/1.m3u8
 河北卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226684/1.m3u8
 河北卫视,http://42.53.68.178:9901/tsfile/live/0117_1.m3u8?key=txiptv
@@ -358,6 +357,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 河北卫视,http://58.220.219.14:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,http://jltpc.x3322.net:9901/tsfile/live/0117_1.m3u8?key=txiptv
 河北卫视,https://iptv.luas.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/b12d4a68a3-0-0-521fc1584583f4058abf1ad14cee60f7/index.m3u8
+河北卫视,http://221.224.4.170:9901/tsfile/live/0117_1.m3u8?key=txiptv
 山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西卫视,http://120.196.232.19:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226704/1.m3u8
 山西卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226704/1.m3u8
@@ -365,7 +365,6 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 山西卫视,http://39.165.35.152:9901/tsfile/live/1152_1.m3u8?key=txiptv
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
-山东卫视,http://221.224.4.170:9901/tsfile/live/0131_1.m3u8?key=txiptv
 山东卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 山东卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226693/1.m3u8
 山东卫视,http://42.53.68.178:9901/tsfile/live/0131_1.m3u8?key=txiptv
@@ -374,7 +373,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 山东卫视,http://58.220.219.14:9901/tsfile/live/0131_1.m3u8?key=txiptv
 山东卫视,http://jltpc.x3322.net:9901/tsfile/live/0131_1.m3u8?key=txiptv
 山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/dd6f0a43db-0-0-63f6f29dcc6843fd6b50323d4bfc8b09/index.m3u8
-安徽卫视,http://221.224.4.170:9901/tsfile/live/0130_1.m3u8?key=txiptv
+山东卫视,http://221.224.4.170:9901/tsfile/live/0131_1.m3u8?key=txiptv
 安徽卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
 安徽卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226664/1.m3u8
 安徽卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
@@ -383,6 +382,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 安徽卫视,http://58.220.219.14:9901/tsfile/live/0130_1.m3u8?key=txiptv
 安徽卫视,http://jltpc.x3322.net:9901/tsfile/live/0130_1.m3u8?key=txiptv
 安徽卫视,https://iptv.luas.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/494a63d492-0-0-94541fa104bd30ce82410455ab950402/index.m3u8
+安徽卫视,http://221.224.4.170:9901/tsfile/live/0130_1.m3u8?key=txiptv
 河南卫视,https://cfyy.cc/ds/ysp/qp.php?id=hnws
 河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
 河南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
@@ -399,7 +399,6 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 湖北卫视,http://39.165.35.152:9901/tsfile/live/1143_1.m3u8?key=txiptv
 湖北卫视,http://jltpc.x3322.net:9901/tsfile/live/0132_1.m3u8?key=txiptv
 湖北卫视,https://iptv.luas.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/09ef2cf7aa-0-0-41178ff5e45faa352937baadccc115df/index.m3u8
-湖南卫视,http://221.224.4.170:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://42.53.68.178:9901/tsfile/live/0128_1.m3u8?key=txiptv
@@ -410,7 +409,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 湖南卫视,http://jltpc.x3322.net:9901/tsfile/live/0117_2.m3u8?key=txiptv
 湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
-江西卫视,http://221.224.4.170:9901/tsfile/live/0138_1.m3u8?key=txiptv
+湖南卫视,http://221.224.4.170:9901/tsfile/live/0128_1.m3u8?key=txiptv
 江西卫视,https://cfyy.cc/ds/ysp/qp.php?id=jxws
 江西卫视,http://hms2844nc1972666627.live.aikan.miguvideo.com/wh7f454c46tw1592308998_-1889199081/migu/kailu/jxwshd/57/20190820/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=531262091&timezone=UTC&mtv_session=de50cbe717aa7f99a96fffd956d81e51&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f8930b959a901748e45e2615bac60f75
 江西卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
@@ -422,7 +421,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 江西卫视,http://jltpc.x3322.net:9901/tsfile/live/0138_1.m3u8?key=txiptv
 江西卫视,https://iptv.luas.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/74d69d122b-0-0-db9e2346ab702f9e87c09d7de7b9d5d0/index.m3u8
 江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
-江苏卫视,http://221.224.4.170:9901/tsfile/live/0127_1.m3u8?key=txiptv
+江西卫视,http://221.224.4.170:9901/tsfile/live/0138_1.m3u8?key=txiptv
 江苏卫视,https://cfyy.cc/ds/ysp/qp.php?id=jsws
 江苏卫视,http://42.53.68.178:9901/tsfile/live/0127_1.m3u8?key=txiptv
 江苏卫视,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1592593248_1989329552/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=264104188&timezone=UTC&mtv_session=6bc8392c0ce046c4a27b0d812696e9f8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a05b045f626d4764b5124f26a2f1d747
@@ -433,7 +432,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 江苏卫视,http://jltpc.x3322.net:9901/tsfile/live/0127_1.m3u8?key=txiptv
 江苏卫视,https://iptv.luas.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/8c0352e42d-0-0-2529f61c8f420136013f1ab8a93169c3/index.m3u8
 江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
-浙江卫视,http://221.224.4.170:9901/tsfile/live/0124_1.m3u8?key=txiptv
+江苏卫视,http://221.224.4.170:9901/tsfile/live/0127_1.m3u8?key=txiptv
 浙江卫视,https://cfyy.cc/ds/ysp/qp.php?id=zjws
 浙江卫视,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
 浙江卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
@@ -444,7 +443,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 浙江卫视,http://jltpc.x3322.net:9901/tsfile/live/0124_1.m3u8?key=txiptv
 浙江卫视,https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a2d2162784-0-0-56b13eabd03cd0ff33e9bc019e1fb073/index.m3u8
 浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
-东南卫视,http://221.224.4.170:9901/tsfile/live/0137_1.m3u8?key=txiptv
+浙江卫视,http://221.224.4.170:9901/tsfile/live/0124_1.m3u8?key=txiptv
 东南卫视,https://cfyy.cc/ds/ysp/qp.php?id=dnws
 东南卫视,http://42.53.68.178:9901/tsfile/live/0137_1.m3u8?key=txiptv
 东南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
@@ -454,7 +453,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 东南卫视,http://jltpc.x3322.net:9901/tsfile/live/0137_1.m3u8?key=txiptv
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
 东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
-广东卫视,http://221.224.4.170:9901/tsfile/live/0125_1.m3u8?key=txiptv
+东南卫视,http://221.224.4.170:9901/tsfile/live/0137_1.m3u8?key=txiptv
 广东卫视,https://cfyy.cc/ds/ysp/qp.php?id=gdws
 广东卫视,http://42.53.68.178:9901/tsfile/live/0125_1.m3u8?key=txiptv
 广东卫视,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1592898240_-1957872936/ws_w/gdws/gdws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=263541274&timezone=UTC&mtv_session=d190c97b4980b8b8fc8fe749d33c4b53&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d7d16b4dab836849b2d69de0c71c0881
@@ -464,6 +463,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 广东卫视,http://jltpc.x3322.net:9901/tsfile/live/0125_1.m3u8?key=txiptv
 广东卫视,https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ff9a42344-0-0-0eb4f8fe53cdbc02d1db696ecc425752/index.m3u8
 广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+广东卫视,http://221.224.4.170:9901/tsfile/live/0125_1.m3u8?key=txiptv
 深圳卫视,https://cfyy.cc/ds/ysp/qp.php?id=szws
 深圳卫视,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
 深圳卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
@@ -494,7 +494,6 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 贵州卫视,http://jltpc.x3322.net:9901/tsfile/live/0120_1.m3u8?key=txiptv
 贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
 贵州卫视,https://iptv.luas.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/bd25603388-0-0-014fe4fb21acfc8414f969b38a29037c/index.m3u8
-四川卫视,http://221.224.4.170:9901/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,https://cfyy.cc/ds/ysp/qp.php?id=scws
 四川卫视,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
 四川卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226659/1.m3u8
@@ -504,6 +503,7 @@ CCTV-15 音乐,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 四川卫视,http://jltpc.x3322.net:9901/tsfile/live/0123_1.m3u8?key=txiptv
 四川卫视,https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/027c826f0e-0-0-4caf8e44f0157ea591d8857569b9a2c3/index.m3u8
 四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+四川卫视,http://221.224.4.170:9901/tsfile/live/0123_1.m3u8?key=txiptv
 海南卫视,https://cfyy.cc/ds/ysp/qp.php?id=hinws
 海南卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1594363320_-990671769/envivo_x/SD/lvyou/711/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=531262161&timezone=UTC&mtv_session=b55d04e0b5c7e772923fd49422a408a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=97ea95aaf536edf9a57ca0219cadc011
 海南卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
