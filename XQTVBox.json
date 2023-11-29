@@ -46,6 +46,7 @@
         {"key":"csp_XYQHiker_电影港","name":"🧲电影港(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/电影港磁力.json"},
         {"key":"csp_XYQHiker_BT天堂","name":"🧲✈️BT天堂(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/BT天堂.json"},
         {"key":"csp_XYQHiker_飘花资源网","name":"🧲飘花资源网(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/飘花资源网.json"},
+        {"key":"csp_XYQHiker_音范丝","name":"🧲音范丝(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/音范丝.json"},
         {"key":"csp_XYQHiker_极影网","name":"🧲极影网(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/极影网.json"},
         {"key":"csp_XYQHiker_高清MP4","name":"🧲高清MP4(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/高清MP4.json"},
         {"key":"csp_XYQHiker_蚂蚁4K","name":"🧲蚂蚁4K(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/蚂蚁4K.json"},
