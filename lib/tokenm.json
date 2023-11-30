@@ -1,7 +1,7 @@
 {
 "token":"98aab627abff44a2ac37c4055af3dfda",
 "open_token":"",
-"thread_limit":128,
+"thread_limit":32,
 "quark_thread_limit":10,
 "vod_flags":"4k|4kz|auto",
 "quark_flags":"4kz|auto",
