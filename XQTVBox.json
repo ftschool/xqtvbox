@@ -32,6 +32,7 @@
         {"key":"云盘论坛","name":"📀阿里论坛(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘论坛.json"},
         {"key":"云盘分享社","name":"📀阿里分享社(搜索)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
         {"key":"阿里苏苏","name":"📀阿里苏苏(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
+        //代理加速区
         {"key":"Wobg","name":"📀玩偶表哥(代理)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"},
         {"key":"盘搜","name":"📀盘搜(代理)","type":3,"api":"csp_PanSou","jar":"./pg.jar","ext":"./lib/tokenm.json"},
         {"key":"UP云搜","name":"📀UP云搜(代理)","type":3,"api":"csp_UpYun","jar":"./pg.jar","ext":"./lib/tokenm.json"},
