@@ -1,5 +1,6 @@
 央视卫视,#genre#
 CCTV-1 综合,https://cfyy.cc/ds/ysp/qp.php?id=cctv1
+CCTV-1 综合,http://969266808.iptv.netsxz.com:61800/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1 综合,http://222.71.221.186:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://222.134.241.132:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://jhwyn.lzposcloud.com:9901/tsfile/live/0001_1.m3u8
@@ -22,6 +23,7 @@ CCTV-1 综合,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee
 CCTV-1 综合,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 CCTV-1 综合,http://221.224.4.170:9901/tsfile/live/0001_1.m3u8
 CCTV-2 财经,https://cfyy.cc/ds/ysp/qp.php?id=cctv2
+CCTV-2 财经,http://969266808.iptv.netsxz.com:61800/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2 财经,http://222.71.221.186:9901/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://222.134.241.132:9901/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://39.135.238.32/000000001000PLTV/88888888/224/3221235743/1.m3u8?HlsProfileId=
@@ -41,6 +43,7 @@ CCTV-2 财经,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace06
 CCTV-2 财经,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 CCTV-2 财经,http://221.224.4.170:9901/tsfile/live/0002_1.m3u8
 CCTV-3 综艺,https://cfyy.cc/ds/ysp/qp.php?id=cctv3
+CCTV-3 综艺,http://969266808.iptv.netsxz.com:61800/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-3 综艺,http://222.71.221.186:9901/tsfile/live/0003_1.m3u8
 CCTV-3 综艺,http://124.234.172.107:9901/tsfile/live/0003_1.m3u8
 CCTV-3 综艺,http://111.20.40.173/TVOD/88888893/224/3221226397/1.m3u8
@@ -106,6 +109,7 @@ CCTV-5 体育,https://iptv.luas.edu.cn/liverespath/3f76badfb3a23d95f26ff573a9390
 CCTV-5 体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV-5 体育,http://221.224.4.170:9901/tsfile/live/0005_1.m3u8
 CCTV-5+ 体育赛事,https://cfyy.cc/ds/ysp/qp.php?id=cctv5p
+CCTV-5+ 体育赛事,http://969266808.iptv.netsxz.com:61800/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+ 体育赛事,http://222.134.241.132:9901/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://124.234.172.107:9901/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://42.53.68.178:9901/tsfile/live/0016_1.m3u8
@@ -118,6 +122,7 @@ CCTV-5+ 体育赛事,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158
 CCTV-5+ 体育赛事,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/7feb0d1939-0-0-8c1976faa898233b38389c5a90f804c2/index.m3u8
 CCTV-5+ 体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV-6 电影,https://cfyy.cc/ds/ysp/qp.php?id=cctv6
+CCTV-6 电影,http://969266808.iptv.netsxz.com:61800/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-6 电影,http://222.71.221.186:9901/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://124.234.172.107:9901/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://111.20.40.173/TVOD/88888893/224/3221226393/1.m3u8
@@ -135,6 +140,7 @@ CCTV-6 电影,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b
 CCTV-6 电影,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
 CCTV-6 电影,http://221.224.4.170:9901/tsfile/live/0006_1.m3u8
 CCTV-7 国防军事,https://cfyy.cc/ds/ysp/qp.php?id=cctv7
+CCTV-7 国防军事,http://969266808.iptv.netsxz.com:61800/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-7 国防军事,http://222.71.221.186:9901/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,http://222.134.241.132:9901/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,http://39.135.238.32/000000001000PLTV/88888888/224/3221235759/1.m3u8?HlsProfileId=
@@ -153,6 +159,7 @@ CCTV-7 国防军事,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a34351559
 CCTV-7 国防军事,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
 CCTV-7 国防军事,http://221.224.4.170:9901/tsfile/live/0007_1.m3u8
 CCTV-8 电视剧,https://cfyy.cc/ds/ysp/qp.php?id=cctv8
+CCTV-8 电视剧,http://969266808.iptv.netsxz.com:61800/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-8 电视剧,http://222.71.221.186:9901/tsfile/live/0008_1.m3u8
 CCTV-8 电视剧,http://124.234.172.107:9901/tsfile/live/0008_1.m3u8
 CCTV-8 电视剧,http://111.20.40.173/TVOD/88888893/224/3221226391/1.m3u8
@@ -170,6 +177,7 @@ CCTV-8 电视剧,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c
 CCTV-8 电视剧,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
 CCTV-8 电视剧,http://221.224.4.170:9901/tsfile/live/0008_1.m3u8
 CCTV-9 纪录,https://cfyy.cc/ds/ysp/qp.php?id=cctv9
+CCTV-9 纪录,http://969266808.iptv.netsxz.com:61800/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-9 纪录,http://222.71.221.186:9901/tsfile/live/0009_1.m3u8
 CCTV-9 纪录,http://222.134.241.132:9901/tsfile/live/0009_1.m3u8
 CCTV-9 纪录,http://39.135.238.32/000000001000PLTV/88888888/224/3221235767/1.m3u8?HlsProfileId=
@@ -189,6 +197,7 @@ CCTV-9 纪录,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bf
 CCTV-9 纪录,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
 CCTV-9 纪录,http://221.224.4.170:9901/tsfile/live/0009_1.m3u8
 CCTV-10 科教,https://cfyy.cc/ds/ysp/qp.php?id=cctv10
+CCTV-10 科教,http://969266808.iptv.netsxz.com:61800/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10 科教,http://222.71.221.186:9901/tsfile/live/0010_1.m3u8
 CCTV-10 科教,http://222.134.241.132:9901/tsfile/live/0010_1.m3u8
 CCTV-10 科教,http://jhwyn.lzposcloud.com:9901/tsfile/live/0010_1.m3u8
@@ -216,6 +225,7 @@ CCTV-11 戏曲,http://jltpc.x3322.net:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://39.165.35.152:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
 CCTV-12 社会与法,https://cfyy.cc/ds/ysp/qp.php?id=cctv12
+CCTV-12 社会与法,http://969266808.iptv.netsxz.com:61800/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-12 社会与法,http://222.134.241.132:9901/tsfile/live/0012_1.m3u8
 CCTV-12 社会与法,http://39.135.238.32/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
 CCTV-12 社会与法,http://39.134.134.84/000000001000PLTV/88888888/224/3221235735/1.m3u8?HlsProfileId=
@@ -250,6 +260,7 @@ CCTV-13 新闻,http://jltpc.x3322.net:9901/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
 CCTV-13 新闻,http://221.224.4.170:9901/tsfile/live/0013_1.m3u8
 CCTV-14 少儿,https://cfyy.cc/ds/ysp/qp.php?id=cctv14
+CCTV-14 少儿,http://969266808.iptv.netsxz.com:61800/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14 少儿,http://222.71.221.186:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://222.134.241.132:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://39.135.238.49/000000001000PLTV/88888888/224/3221235776/1.m3u8?HlsProfileId=
