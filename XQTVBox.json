@@ -1,12 +1,8 @@
 {
     "wallpaper":"https://picsum.photos/1280/720/?blur=2",
     "spider":"./custom_spider.jar",
-    "lives": [
-        {"name":"电视直播", 
-"type":0,
-"url":"./live.txt",
-"playerType":1
-        }
+    "lives":[
+        {"name":"电视直播","type":0,"url":"./live.txt","playerType":1}
     ],
     "sites":[
         {"key":"drpy_js_豆瓣","name":"❤小青线路❤切勿传播！","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/drpy.js"},
