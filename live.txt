@@ -1,6 +1,8 @@
 央视卫视,#genre#
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
 CCTV-1 综合,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=
+CCTV-1 综合,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1580954862_989339440/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073730&ContentId=265183188&timezone=UTC&mtv_session=70e0f8e2241f03fbb284fe07471c1406&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a8389d6ec822d0e298d3b92aa95fa266
+CCTV-1 综合,http://fangke.blueswords.com:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://112.45.132.162:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://117.64.135.99:4022/udp/238.1.78.166:7200
 CCTV-1 综合,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0001_1.m3u8
@@ -24,11 +26,12 @@ CCTV-1 综合,http://61.169.37.218:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://42.53.68.178:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8
 CCTV-1 综合,http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8?icpid=651&from=38&hms_devid=2232&online=1687246054&vqe=3
-CCTV-1 综合,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
 CCTV-1 综合,https://iptv.luas.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/e0eea3f2cd-0-0-7b16046e28b9e794d06c5fbcc82d37b9/index.m3u8
 CCTV-1 综合,http://221.224.4.170:9901/tsfile/live/0001_1.m3u8
 CCTV-2 财经,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
 CCTV-2 财经,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=
+CCTV-2 财经,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1581514102_1458964604/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265667329&timezone=UTC&mtv_session=0652a49abec4c860e1b09ad88db72dc8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3816442679b4c149e40771e4b7b870cb
+CCTV-2 财经,http://fangke.blueswords.com:9901/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://112.45.132.162:9901/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://117.64.135.99:4022/udp/238.1.78.235:7752
 CCTV-2 财经,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0002_1.m3u8
@@ -51,7 +54,6 @@ CCTV-2 财经,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/32212267
 CCTV-2 财经,http://60.174.137.146:9901/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://42.53.68.178:9901/tsfile/live/0002_1.m3u8
 CCTV-2 财经,http://58.220.219.14:9901/tsfile/live/0002_1.m3u8
-CCTV-2 财经,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
 CCTV-2 财经,https://iptv.luas.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/877097d2fa-0-0-b7736e6941fd5cb71f45ef9397b68092/index.m3u8
 CCTV-2 财经,http://221.224.4.170:9901/tsfile/live/0002_1.m3u8
 CCTV-3 综艺,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/index.m3u8?&encrypt=
@@ -68,11 +70,12 @@ CCTV-3 综艺,http://61.169.37.218:9901/tsfile/live/0003_1.m3u8
 CCTV-3 综艺,http://42.53.68.178:9901/tsfile/live/0003_1.m3u8
 CCTV-3 综艺,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV-3 综艺,http://58.220.219.14:9901/tsfile/live/0003_1.m3u8
-CCTV-3 综艺,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
 CCTV-3 综艺,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/0df24da9ec-0-0-dca40ddadd2a051ce1a83536d9310820/index.m3u8
 CCTV-3 综艺,http://221.224.4.170:9901/tsfile/live/0003_1.m3u8
 CCTV-4 中文国际,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
 CCTV-4 中文国际,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=
+CCTV-4 中文国际,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1582083769_-1437579634/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667639&timezone=UTC&mtv_session=bd66c8df11d2f77bee645f53f4ed7362&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c2b1baee99eab7588b8ea53f584c3bb1
+CCTV-4 中文国际,http://fangke.blueswords.com:9901/tsfile/live/0004_1.m3u8
 CCTV-4 中文国际,http://112.45.132.162:9901/tsfile/live/0004_1.m3u8
 CCTV-4 中文国际,http://117.64.135.99:4022/udp/238.1.78.236:7760
 CCTV-4 中文国际,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0004_1.m3u8
@@ -94,11 +97,11 @@ CCTV-4 中文国际,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/32
 CCTV-4 中文国际,http://60.174.137.146:9901/tsfile/live/0004_1.m3u8
 CCTV-4 中文国际,http://42.53.68.178:9901/tsfile/live/0004_1.m3u8
 CCTV-4 中文国际,http://58.220.219.14:9901/tsfile/live/0004_1.m3u8
-CCTV-4 中文国际,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
 CCTV-4 中文国际,https://iptv.luas.edu.cn/liverespath/c70d81eefb04fef7777c2a5aab4ddc9459ce4246/0baa43f537-0-0-5bc4eda6a2031a1140906b86d867a79e/index.m3u8
 CCTV-4 中文国际,http://221.224.4.170:9901/tsfile/live/0004_1.m3u8
 CCTV-4 中文国际 欧洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
 CCTV-4 中文国际 美洲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
+CCTV-4 中文国际 美洲,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1582682240_-1402839824/migu/kailu/20200324/cctv4meihd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073732&ContentId=265667335&timezone=UTC&mtv_session=361466f23b240ef7fb33d32f582f16e5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0ecf0c5bd1bb66dff4d24e873e5c63ef
 CCTV-5 体育,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
 CCTV-5 体育,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=
 CCTV-5 体育,http://112.45.132.162:9901/tsfile/live/0005_1.m3u8
@@ -113,9 +116,10 @@ CCTV-5 体育,http://61.169.37.218:9901/tsfile/live/0005_1.m3u8
 CCTV-5 体育,http://42.53.68.178:9901/tsfile/live/0005_1.m3u8
 CCTV-5 体育,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
 CCTV-5 体育,http://58.220.219.14:9901/tsfile/live/0005_1.m3u8
-CCTV-5 体育,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3939139141_-877857276/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8
 CCTV-5 体育,https://iptv.luas.edu.cn/liverespath/3f76badfb3a23d95f26ff573a93902bbdb8b8e98/d576df8c0b-0-0-2de19686e2172f351d6e90c142a0be07/index.m3u8
 CCTV-5 体育,http://221.224.4.170:9901/tsfile/live/0005_1.m3u8
+CCTV-5+ 体育赛事,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1583876590_-1805575416/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073733&ContentId=265106763&timezone=UTC&mtv_session=1f5bd52f67ecd434a6cf3bd7ebc51a71&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=08375028c68909716c1218fc91018199
+CCTV-5+ 体育赛事,http://fangke.blueswords.com:9901/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://112.45.132.162:9901/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://117.64.135.99:4022/udp/238.1.78.237:7768
 CCTV-5+ 体育赛事,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
@@ -130,11 +134,11 @@ CCTV-5+ 体育赛事,http://222.134.57.82:8154/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://222.134.241.132:9901/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://42.53.68.178:9901/tsfile/live/0016_1.m3u8
 CCTV-5+ 体育赛事,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
-CCTV-5+ 体育赛事,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
 CCTV-5+ 体育赛事,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/503cc020ac-0-0-1302b6eda0d18832e18611c25ddded2d/index.m3u8
 CCTV-5+ 体育赛事,https://iptv.luas.edu.cn/liverespath/7b02d30e42de3c0078c158ce81421accad3a8400/7feb0d1939-0-0-8c1976faa898233b38389c5a90f804c2/index.m3u8
 CCTV-6 电影,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
 CCTV-6 电影,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=
+CCTV-6 电影,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1584168866_889700348/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667482&timezone=UTC&mtv_session=f70082b1ade8cb422547681dfcdad578&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3197a71757b802dc65f32626eb2ec8dd
 CCTV-6 电影,http://112.45.132.162:9901/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://117.64.135.99:4022/udp/238.1.78.172:7248
 CCTV-6 电影,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0006_1.m3u8
@@ -149,10 +153,10 @@ CCTV-6 电影,http://61.169.37.218:9901/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://42.53.68.178:9901/tsfile/live/0006_1.m3u8
 CCTV-6 电影,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
 CCTV-6 电影,http://58.220.219.14:9901/tsfile/live/0006_1.m3u8
-CCTV-6 电影,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
 CCTV-6 电影,https://iptv.luas.edu.cn/liverespath/f2f39ee2105c85c32df375728a51b5d89d3afab4/113ed89f48-0-0-85216e55861329ec31ba1437a2ff37c9/index.m3u8
 CCTV-6 电影,http://221.224.4.170:9901/tsfile/live/0006_1.m3u8
 CCTV-7 国防军事,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
+CCTV-7 国防军事,http://fangke.blueswords.com:9901/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,http://112.45.132.162:9901/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,http://117.64.135.99:4022/udp/238.1.78.239:7784
 CCTV-7 国防军事,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0007_1.m3u8
@@ -175,7 +179,6 @@ CCTV-7 国防军事,http://111.13.111.242/000000001000PLTV/88888888/224/32212357
 CCTV-7 国防军事,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
 CCTV-7 国防军事,http://42.53.68.178:9901/tsfile/live/0007_1.m3u8
 CCTV-7 国防军事,http://58.220.219.14:9901/tsfile/live/0007_1.m3u8
-CCTV-7 国防军事,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
 CCTV-7 国防军事,https://iptv.luas.edu.cn/liverespath/f116a0a5035935a3435155998163d8eaa60554c3/4ba629f762-0-0-0a66b18805ff859ce68ab1137157079e/index.m3u8
 CCTV-7 国防军事,http://221.224.4.170:9901/tsfile/live/0007_1.m3u8
 CCTV-8 电视剧,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv8hd/3000/index.m3u8?&encrypt=
@@ -194,10 +197,11 @@ CCTV-8 电视剧,http://61.169.37.218:9901/tsfile/live/0008_1.m3u8
 CCTV-8 电视剧,http://42.53.68.178:9901/tsfile/live/0008_1.m3u8
 CCTV-8 电视剧,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV-8 电视剧,http://58.220.219.14:9901/tsfile/live/0008_1.m3u8
-CCTV-8 电视剧,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2243817462_1836799824/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985
 CCTV-8 电视剧,https://iptv.luas.edu.cn/liverespath/9e6e3b618b5dc902d992949f0c669bb674f6cde8/cae4471c68-0-0-316245c664c3311072c7279ec29672fe/index.m3u8
 CCTV-8 电视剧,http://221.224.4.170:9901/tsfile/live/0008_1.m3u8
 CCTV-9 纪录,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
+CCTV-9 纪录,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1585021209_2146650853/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073734&ContentId=265667202&timezone=UTC&mtv_session=3b457b5d48dfa5bec1b31c42bdc38890&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4831b14f9cf512f5bf6964b103251dc9
+CCTV-9 纪录,http://fangke.blueswords.com:9901/tsfile/live/0009_1.m3u8
 CCTV-9 纪录,http://112.45.132.162:9901/tsfile/live/0009_1.m3u8
 CCTV-9 纪录,http://117.64.135.99:4022/udp/238.1.78.240:7792
 CCTV-9 纪录,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0009_1.m3u8
@@ -220,9 +224,9 @@ CCTV-9 纪录,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/32212266
 CCTV-9 纪录,http://60.174.137.146:9901/tsfile/live/0009_1.m3u8
 CCTV-9 纪录,http://42.53.68.178:9901/tsfile/live/0009_1.m3u8
 CCTV-9 纪录,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8
-CCTV-9 纪录,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
 CCTV-9 纪录,https://iptv.luas.edu.cn/liverespath/0d0f0da65ba843b8d1dd6fed315bfea896ddd20d/a1920294b0-0-0-f3b9b294fd2e3c4db85f962e6949c4a1/index.m3u8
 CCTV-9 纪录,http://221.224.4.170:9901/tsfile/live/0009_1.m3u8
+CCTV-10 科教,http://fangke.blueswords.com:9901/tsfile/live/0010_1.m3u8
 CCTV-10 科教,http://112.45.132.162:9901/tsfile/live/0010_1.m3u8
 CCTV-10 科教,http://117.64.135.99:4022/udp/238.1.78.241:7800
 CCTV-10 科教,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0010_1.m3u8
@@ -239,10 +243,10 @@ CCTV-10 科教,http://222.134.241.132:9901/tsfile/live/0010_1.m3u8
 CCTV-10 科教,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
 CCTV-10 科教,http://42.53.68.178:9901/tsfile/live/0010_1.m3u8
 CCTV-10 科教,http://58.220.219.14:9901/tsfile/live/0010_1.m3u8
-CCTV-10 科教,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402_1265174830/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861
 CCTV-10 科教,https://iptv.luas.edu.cn/liverespath/924e6292a0e6f7440e8380075908fed9915b3c00/780499a193-0-0-c50d57fd93cf32a5144ec8d889eb3ed9/index.m3u8
 CCTV-10 科教,http://221.224.4.170:9901/tsfile/live/0010_1.m3u8
 CCTV-11 戏曲,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
+CCTV-11 戏曲,http://fangke.blueswords.com:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://112.45.132.162:9901/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://117.64.135.99:4022/udp/238.1.78.206:7502
 CCTV-11 戏曲,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0011_1.m3u8
@@ -255,9 +259,10 @@ CCTV-11 戏曲,http://222.134.57.82:8154/tsfile/live/0011_1.m3u8
 CCTV-11 戏曲,http://39.135.238.32/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
 CCTV-11 戏曲,http://39.134.134.86/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
 CCTV-11 戏曲,http://42.53.68.178:9901/tsfile/live/0011_1.m3u8
-CCTV-11 戏曲,http://hms2864nc1972666630.live.aikan.miguvideo.com/wh7f454c46tw1585598366_-481653261/migu/kailu/cctv11hd/57/20200103/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073735&ContentId=265667429&timezone=UTC&mtv_session=4b2a1a34470a2292a3b6b8defdd19dc8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f5c6b917bd6664cd3abf93c9a779b8bf
 CCTV-11 戏曲,http://111.13.111.242/000000001000PLTV/88888888/224/3221236200/1.m3u8?HlsProfileId=
 CCTV-11 戏曲,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV-12 社会与法,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1585892033_-953434305/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073735&ContentId=265667607&timezone=UTC&mtv_session=04a047571867297b61308196c0b61be4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6f196fd01444dfaf9d9ea5d0cc8ecc01
+CCTV-12 社会与法,http://fangke.blueswords.com:9901/tsfile/live/0012_1.m3u8
 CCTV-12 社会与法,http://112.45.132.162:9901/tsfile/live/0012_1.m3u8
 CCTV-12 社会与法,http://117.64.135.99:4022/udp/238.1.78.242:7808
 CCTV-12 社会与法,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0012_1.m3u8
@@ -277,9 +282,9 @@ CCTV-12 社会与法,http://111.13.111.242/000000001000PLTV/88888888/224/3221235
 CCTV-12 社会与法,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
 CCTV-12 社会与法,http://42.53.68.178:9901/tsfile/live/0012_1.m3u8
 CCTV-12 社会与法,http://58.220.219.14:9901/tsfile/live/0012_1.m3u8
-CCTV-12 社会与法,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
 CCTV-12 社会与法,https://iptv.luas.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc0497594ae94e/e2d8885f42-0-0-6e1f55986652ba786606a116c5cc0775/index.m3u8
 CCTV-12 社会与法,http://221.224.4.170:9901/tsfile/live/0012_1.m3u8
+CCTV-13 新闻,http://fangke.blueswords.com:9901/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,http://112.45.132.162:9901/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,http://117.64.135.99:4022/udp/238.1.79.35:4392
 CCTV-13 新闻,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0013_1.m3u8
@@ -300,9 +305,10 @@ CCTV-13 新闻,http://60.174.137.146:9901/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV-13 新闻,http://42.53.68.178:9901/tsfile/live/0013_1.m3u8
 CCTV-13 新闻,http://58.220.219.14:9901/tsfile/live/0013_1.m3u8
-CCTV-13 新闻,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
 CCTV-13 新闻,http://221.224.4.170:9901/tsfile/live/0013_1.m3u8
 CCTV-14 少儿,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv14hd/3000/index.m3u8?&encrypt=
+CCTV-14 少儿,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1586468724_862335566/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073736&ContentId=265667325&timezone=UTC&mtv_session=d69ff4fc771dd3f04825ad6d23121aa0&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e145be999fb1457e94c38e728570b97e
+CCTV-14 少儿,http://fangke.blueswords.com:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://112.45.132.162:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://117.64.135.99:4022/udp/238.1.78.243:7816
 CCTV-14 少儿,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0014_1.m3u8
@@ -322,10 +328,10 @@ CCTV-14 少儿,http://111.13.111.242/000000001000PLTV/88888888/224/3221235776/1.
 CCTV-14 少儿,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
 CCTV-14 少儿,http://42.53.68.178:9901/tsfile/live/0014_1.m3u8
 CCTV-14 少儿,http://58.220.219.14:9901/tsfile/live/0014_1.m3u8
-CCTV-14 少儿,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
 CCTV-14 少儿,https://iptv.luas.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/0ef01acfdb-0-0-3c10e95bcde07ba14f0f93a8d831b684/index.m3u8
 CCTV-14 少儿,http://221.224.4.170:9901/tsfile/live/0014_1.m3u8
 CCTV-15 音乐,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv15hd/57/index.m3u8?&encrypt=
+CCTV-15 音乐,http://fangke.blueswords.com:9901/tsfile/live/0015_1.m3u8
 CCTV-15 音乐,http://112.45.132.162:9901/tsfile/live/0015_1.m3u8
 CCTV-15 音乐,http://117.64.135.99:4022/udp/238.1.78.222:7648
 CCTV-15 音乐,http://ikuai4.zzy789.xyz:6688/udp/239.93.22.131:7918
@@ -339,9 +345,9 @@ CCTV-15 音乐,http://39.134.134.88/000000001000PLTV/88888888/224/3221236203/1.m
 CCTV-15 音乐,http://39.134.135.125/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
 CCTV-15 音乐,http://111.13.111.242/000000001000PLTV/88888888/224/3221236203/1.m3u8?HlsProfileId=
 CCTV-15 音乐,http://42.53.68.178:9901/tsfile/live/0015_1.m3u8
-CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
 
 省级卫视,#genre#
+北京卫视,http://fangke.blueswords.com:9901/tsfile/live/0126_1.m3u8
 北京卫视,http://112.45.132.162:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://117.64.135.99:4022/udp/238.1.78.162:7168
 北京卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/1017_1.m3u8
@@ -354,13 +360,14 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 北京卫视,http://222.71.221.186:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://222.134.241.132:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://144.123.130.54:8154/tsfile/live/0122_1.m3u8
-北京卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1588200355_-2136083744/ws_w/bjws/bjws3000/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=265668911&timezone=UTC&mtv_session=923b33c07808007ff4b7b8554ab56cb9&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b3b910e2f08747b18ff03b13155e96cb
 北京卫视,http://120.196.232.46:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 北京卫视,http://61.169.37.218:9901/tsfile/live/1005_1.m3u8
 北京卫视,http://42.53.68.178:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://58.220.219.14:9901/tsfile/live/0122_1.m3u8
 北京卫视,http://221.224.4.170:9901/tsfile/live/0122_1.m3u8
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
+东方卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1588763278_-766408077/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=6b842c705e2cf7e9df14788ca8009ef5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=36ed1abbb2ec038b2f2303e58aea07a1
+东方卫视,http://fangke.blueswords.com:9901/tsfile/live/0122_1.m3u8
 东方卫视,http://112.45.132.162:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://117.64.135.99:4022/udp/238.1.78.163:7176
 东方卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0107_1.m3u8
@@ -373,12 +380,12 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 东方卫视,http://144.123.130.54:8154/tsfile/live/0107_1.m3u8
 东方卫视,http://222.134.57.82:8154/tsfile/live/0107_1.m3u8
 东方卫视,http://222.71.221.186:9901/tsfile/live/0016_1.m3u8
-东方卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1588763278_-766408077/wd_r4/dfl/dongfangwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073738&ContentId=264104266&timezone=UTC&mtv_session=6b842c705e2cf7e9df14788ca8009ef5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=36ed1abbb2ec038b2f2303e58aea07a1
 东方卫视,http://221.224.4.170:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
 东方卫视,http://61.169.37.218:9901/tsfile/live/0107_1.m3u8
 东方卫视,http://58.220.219.14:9901/tsfile/live/0107_1.m3u8
 东方卫视,https://iptv.luas.edu.cn/liverespath/4015e6015b3b818a4cbc2247960b8536a3cd0153/0bc51b40df-0-0-23a64a0dc546104d1ba498a41ff49540/index.m3u8
+天津卫视,http://fangke.blueswords.com:9901/tsfile/live/0114_1.m3u8
 天津卫视,http://112.45.132.162:9901/tsfile/live/0135_1.m3u8
 天津卫视,http://117.64.135.99:4022/udp/238.1.78.20:6088
 天津卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/1016_1.m3u8
@@ -395,6 +402,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 天津卫视,http://58.220.219.14:9901/tsfile/live/0135_1.m3u8
 天津卫视,https://iptv.luas.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/c10d51d64c-0-0-eb4f25a76a7509a0131dd64742139be4/index.m3u8
 天津卫视,http://221.224.4.170:9901/tsfile/live/0135_1.m3u8
+重庆卫视,http://fangke.blueswords.com:9901/tsfile/live/0113_1.m3u8
 重庆卫视,http://112.45.132.162:9901/tsfile/live/0142_1.m3u8
 重庆卫视,http://117.64.135.99:4022/udp/238.1.78.31:6176
 重庆卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0142_1.m3u8
@@ -410,8 +418,8 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 重庆卫视,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 重庆卫视,http://58.220.219.14:9901/tsfile/live/0142_1.m3u8
 重庆卫视,https://iptv.luas.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/5255a86445-0-0-4ce4f2e82145e9bc39b5b4ccd7cce4a0/index.m3u8
-重庆卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1589064099_-704327727/envivo_x/2018/SD/chongqing/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262033&timezone=UTC&mtv_session=90df447b59006f4434fec2d4695f28a7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8bbc2e41f5b3f80d0b069addb6f1df46
 重庆卫视,http://221.224.4.170:9901/tsfile/live/0142_1.m3u8
+黑龙江卫视,http://fangke.blueswords.com:9901/tsfile/live/0125_1.m3u8
 黑龙江卫视,http://112.45.132.162:9901/tsfile/live/0143_1.m3u8
 黑龙江卫视,http://117.64.135.99:4022/udp/238.1.78.159:7144
 黑龙江卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/1008_1.m3u8
@@ -440,6 +448,8 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 吉林卫视,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226671/1.m3u8
 吉林卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1589344314_453295178/envivo_v/2018/SD/jilin/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531262154&timezone=UTC&mtv_session=a8fd605fabf2ca0814b5a56aee04bc2d&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ec7257d80b3cd8e4a5590413a5e9cb93
 吉林卫视,http://42.53.68.178:9901/tsfile/live/0116_1.m3u8
+辽宁卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1589644797_1577190639/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=265669068&timezone=UTC&mtv_session=4adbe497fcc87ddaaa343726a3a14c13&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b336009b46cc80be11d75c763cb6fe70
+辽宁卫视,http://fangke.blueswords.com:9901/tsfile/live/1006_1.m3u8
 辽宁卫视,http://112.45.132.162:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://117.64.135.99:4022/udp/238.1.78.21:6096
 辽宁卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0121_1.m3u8
@@ -453,22 +463,21 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 辽宁卫视,http://222.134.241.132:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://120.196.232.21:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 辽宁卫视,http://42.53.68.178:9901/tsfile/live/0121_1.m3u8
-辽宁卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1589644797_1577190639/wd_r2/ocn/liaoningwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=265669068&timezone=UTC&mtv_session=4adbe497fcc87ddaaa343726a3a14c13&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b336009b46cc80be11d75c763cb6fe70
 辽宁卫视,http://58.220.219.14:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,https://iptv.luas.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/bdc834c533-0-0-aefef0ed39d19073554f1c7e80a25cbc/index.m3u8
 辽宁卫视,http://221.224.4.170:9901/tsfile/live/0121_1.m3u8
+内蒙古卫视,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1589932581_-415191449/envivo_w/2018/SD/neimeng/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531261982&timezone=UTC&mtv_session=c9a5a27753539fa99cff7fe7b0773863&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9d2e1fadbae161e8f9ee1c06f4b85df
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,http://120.196.232.39:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
 内蒙古卫视,http://221.224.4.170:9901/tsfile/live/0114_1.m3u8
-内蒙古卫视,http://hms2904nc1972666633.live.aikan.miguvideo.com/wh7f454c46tw1589932581_-415191449/envivo_w/2018/SD/neimeng/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073739&ContentId=531261982&timezone=UTC&mtv_session=c9a5a27753539fa99cff7fe7b0773863&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9d2e1fadbae161e8f9ee1c06f4b85df
 内蒙古卫视,http://42.53.68.178:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://gmxw.7766.org:808/hls/60/index.m3u8
 内蒙古卫视,https://iptv.luas.edu.cn/liverespath/5a601b122fcaacb6480b65cb74ee8f76347020d6/aae176985f-0-0-f061a231739c0eef9eedd7098db170e9/index.m3u8
 宁夏卫视,http://120.196.232.45:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226691/1.m3u8
 宁夏卫视,http://42.53.68.178:9901/tsfile/live/0112_1.m3u8
-宁夏卫视,http://hms2844nc1972666628.live.aikan.miguvideo.com/wh7f454c46tw1590245808_-2084121214/envivo_x/2018/SD/ningxia/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531261057&timezone=UTC&mtv_session=83a38128827a852ce1724296852f857e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=17f4b89974b2ed1e654453d44f9968b1
 宁夏卫视,http://58.220.219.14:9901/tsfile/live/0112_1.m3u8
 宁夏卫视,http://gmxw.7766.org:808/hls/106/index.m3u8
+甘肃卫视,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1590536221_1219061924/envivo_v/2018/SD/gansu/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531261933&timezone=UTC&mtv_session=c42270b736c7f7ad784d63391d3520bc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9de29b7faceedf77d9b5796d2c8448a3
 甘肃卫视,http://112.45.132.162:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://117.64.135.99:4022/udp/238.1.79.36:4400
 甘肃卫视,http://ikuai4.zzy789.xyz:6688/udp/239.93.22.49:8288
@@ -476,9 +485,9 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 甘肃卫视,http://144.123.130.54:8154/tsfile/live/0141_1.m3u8
 甘肃卫视,http://222.134.241.132:9901/tsfile/live/1041_1.m3u8
 甘肃卫视,http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
-甘肃卫视,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1590536221_1219061924/envivo_v/2018/SD/gansu/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531261933&timezone=UTC&mtv_session=c42270b736c7f7ad784d63391d3520bc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=9de29b7faceedf77d9b5796d2c8448a3
 甘肃卫视,http://42.53.68.178:9901/tsfile/live/0141_1.m3u8
 甘肃卫视,http://58.220.219.14:9901/tsfile/live/0141_1.m3u8
+青海卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1590811433_1387778932/envivo_w/2018/SD/qinghai/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531262027&timezone=UTC&mtv_session=449a36454b820ab73b61a8a33ccf5337&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=aad202f94476c188a79dcc8e1ec1d2b5
 青海卫视,http://sxz.zccatv.cn:9901/tsfile/live/0140_1.m3u8
 青海卫视,http://222.135.78.62:8154/tsfile/live/0140_1.m3u8
 青海卫视,http://112.245.53.172:8154/tsfile/live/0140_1.m3u8
@@ -487,13 +496,13 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 青海卫视,http://222.134.57.82:8154/tsfile/live/0140_1.m3u8
 青海卫视,http://120.196.232.47:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226696/1.m3u8
 青海卫视,http://42.53.68.178:9901/tsfile/live/0140_1.m3u8
-青海卫视,http://hms2924nc1972666635.live.aikan.miguvideo.com/wh7f454c46tw1590811433_1387778932/envivo_w/2018/SD/qinghai/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073740&ContentId=531262027&timezone=UTC&mtv_session=449a36454b820ab73b61a8a33ccf5337&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=aad202f94476c188a79dcc8e1ec1d2b5
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 陕西卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226707/1.m3u8
 陕西卫视,http://42.53.68.178:9901/tsfile/live/0136_1.m3u8
 陕西卫视,http://hlsbkmgsplive.miguvideo.com/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=
 陕西卫视,https://iptv.luas.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/ef6e859417-0-0-62a8314666ead4b1cf49536375036d60/index.m3u8
+河北卫视,http://fangke.blueswords.com:9901/tsfile/live/1005_1.m3u8
 河北卫视,http://112.45.132.162:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://117.64.135.99:4022/udp/238.1.78.245:7832
 河北卫视,http://sxz.zccatv.cn:9901/tsfile/live/0117_1.m3u8
@@ -514,6 +523,8 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 山西卫视,http://42.53.68.178:9901/tsfile/live/0118_1.m3u8
 山西卫视,http://live.cooltv.top/tv/tide.php?id=sxiws2
 山西卫视,http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
+山东卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1591381721_-1603694084/wd_r4/yg/shandongwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261825&timezone=UTC&mtv_session=af16f8bbf042e18571b0c4dd8335d42c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fb1405a16fc8244a94df4ac18675a58f
+山东卫视,http://fangke.blueswords.com:9901/tsfile/live/0127_1.m3u8
 山东卫视,http://112.45.132.162:9901/tsfile/live/0131_1.m3u8
 山东卫视,http://117.64.135.99:4022/udp/238.1.78.169:7224
 山东卫视,http://ikuai4.zzy789.xyz:6688/udp/239.93.22.126:8756
@@ -526,10 +537,10 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 山东卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
 山东卫视,http://61.169.37.218:9901/tsfile/live/0128_1.m3u8
 山东卫视,http://42.53.68.178:9901/tsfile/live/0131_1.m3u8
-山东卫视,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1591381721_-1603694084/wd_r4/yg/shandongwshd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261825&timezone=UTC&mtv_session=af16f8bbf042e18571b0c4dd8335d42c&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=fb1405a16fc8244a94df4ac18675a58f
 山东卫视,http://58.220.219.14:9901/tsfile/live/0131_1.m3u8
 山东卫视,https://iptv.luas.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/dd6f0a43db-0-0-63f6f29dcc6843fd6b50323d4bfc8b09/index.m3u8
 山东卫视,http://221.224.4.170:9901/tsfile/live/0131_1.m3u8
+安徽卫视,http://fangke.blueswords.com:9901/tsfile/live/0135_1.m3u8
 安徽卫视,http://112.45.132.162:9901/tsfile/live/0130_1.m3u8
 安徽卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0130_1.m3u8
 安徽卫视,http://sxz.zccatv.cn:9901/tsfile/live/0130_1.m3u8
@@ -548,6 +559,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 安徽卫视,http://58.220.219.14:9901/tsfile/live/0130_1.m3u8
 安徽卫视,https://iptv.luas.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/494a63d492-0-0-94541fa104bd30ce82410455ab950402/index.m3u8
 安徽卫视,http://221.224.4.170:9901/tsfile/live/0130_1.m3u8
+河南卫视,http://fangke.blueswords.com:9901/tsfile/live/1001_1.m3u8
 河南卫视,http://112.45.132.162:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://117.64.135.99:4022/udp/238.1.79.65:4632
 河南卫视,http://ikuai4.zzy789.xyz:6688/udp/239.93.23.209:8270
@@ -559,6 +571,8 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 河南卫视,http://120.196.232.29:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226668/1.m3u8
 河南卫视,http://42.53.68.178:9901/tsfile/live/0139_1.m3u8
 河南卫视,https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/7e48b7ea4e-0-0-2194365130f8ace34d2ccabbc0ebb3f4/index.m3u8
+湖北卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1591694976_-107212910/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261978&timezone=UTC&mtv_session=437fc6e8d29c853ca88935e2fd49acea&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d50581461bffa6a3d876b8cc8a1ebce
+湖北卫视,http://fangke.blueswords.com:9901/tsfile/live/1004_1.m3u8
 湖北卫视,http://112.45.132.162:9901/tsfile/live/0132_1.m3u8
 湖北卫视,http://117.64.135.99:4022/udp/238.1.78.168:7216
 湖北卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0132_1.m3u8
@@ -569,13 +583,14 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 湖北卫视,http://144.123.130.54:8154/tsfile/live/0132_1.m3u8
 湖北卫视,http://222.134.57.82:8154/tsfile/live/0132_1.m3u8
 湖北卫视,http://222.134.241.132:9901/tsfile/live/0132_1.m3u8
-湖北卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1591694976_-107212910/migu/kailu/hubeiwshd/57/20220712/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=531261978&timezone=UTC&mtv_session=437fc6e8d29c853ca88935e2fd49acea&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8d50581461bffa6a3d876b8cc8a1ebce
 湖北卫视,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
 湖北卫视,http://61.169.37.218:9901/tsfile/live/0122_1.m3u8
 湖北卫视,http://42.53.68.178:9901/tsfile/live/0132_1.m3u8
 湖北卫视,https://iptv.luas.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/09ef2cf7aa-0-0-41178ff5e45faa352937baadccc115df/index.m3u8
+湖南卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1591995316_1587683132/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=265667721&timezone=UTC&mtv_session=7b07894c57472651304a93669cf87e9b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=617e25748c5f12b7864cc6fb758deaa7
 湖南卫视,http://hlsbkmgsplive.miguvideo.com/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=
 湖南卫视,http://hlsbkmgsplive.miguvideo.com/wd-hunanhd-2500/index.m3u8?&encrypt=
+湖南卫视,http://fangke.blueswords.com:9901/tsfile/live/0124_1.m3u8
 湖南卫视,http://112.45.132.162:9901/tsfile/live/0128_1.m3u8
 湖南卫视,http://117.64.135.99:4022/udp/238.1.78.160:7152
 湖南卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0128_1.m3u8
@@ -591,7 +606,6 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 湖南卫视,http://61.169.37.218:9901/tsfile/live/1004_1.m3u8
 湖南卫视,http://42.53.68.178:9901/tsfile/live/0128_1.m3u8
-湖南卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1591995316_1587683132/wd-hunanhd-2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073741&ContentId=265667721&timezone=UTC&mtv_session=7b07894c57472651304a93669cf87e9b&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=617e25748c5f12b7864cc6fb758deaa7
 湖南卫视,http://58.220.219.14:9901/tsfile/live/0128_1.m3u8
 湖南卫视,https://iptv.luas.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/3777bfb47d-0-0-654e705fbb80feea4c6f5105072a6d33/index.m3u8
 湖南卫视,http://221.224.4.170:9901/tsfile/live/0128_1.m3u8
@@ -608,13 +622,14 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 江西卫视,http://222.134.57.82:8154/tsfile/live/0138_1.m3u8
 江西卫视,http://222.71.221.186:9901/tsfile/live/0138_1.m3u8
 江西卫视,http://222.134.241.132:9901/tsfile/live/0138_1.m3u8
-江西卫视,http://hms2844nc1972666627.live.aikan.miguvideo.com/wh7f454c46tw1592308998_-1889199081/migu/kailu/jxwshd/57/20190820/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=531262091&timezone=UTC&mtv_session=de50cbe717aa7f99a96fffd956d81e51&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f8930b959a901748e45e2615bac60f75
 江西卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
 江西卫视,http://42.53.68.178:9901/tsfile/live/0138_1.m3u8
 江西卫视,http://58.220.219.14:9901/tsfile/live/0138_1.m3u8
 江西卫视,https://iptv.luas.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/74d69d122b-0-0-db9e2346ab702f9e87c09d7de7b9d5d0/index.m3u8
 江西卫视,http://221.224.4.170:9901/tsfile/live/0138_1.m3u8
 江苏卫视,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
+江苏卫视,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1592593248_1989329552/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=264104188&timezone=UTC&mtv_session=6bc8392c0ce046c4a27b0d812696e9f8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a05b045f626d4764b5124f26a2f1d747
+江苏卫视,http://fangke.blueswords.com:9901/tsfile/live/0107_1.m3u8
 江苏卫视,http://112.45.132.162:9901/tsfile/live/0127_1.m3u8
 江苏卫视,http://117.64.135.99:4022/udp/238.1.78.165:7192
 江苏卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0127_1.m3u8
@@ -631,11 +646,11 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 江苏卫视,http://60.174.137.146:9901/tsfile/live/1029_1.m3u8
 江苏卫视,http://61.169.37.218:9901/tsfile/live/1003_1.m3u8
 江苏卫视,http://42.53.68.178:9901/tsfile/live/0127_1.m3u8
-江苏卫视,http://hms2924nc1972666636.live.aikan.miguvideo.com/wh7f454c46tw1592593248_1989329552/wd_r2/cctv/jiangsuhd/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073742&ContentId=264104188&timezone=UTC&mtv_session=6bc8392c0ce046c4a27b0d812696e9f8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a05b045f626d4764b5124f26a2f1d747
 江苏卫视,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
 江苏卫视,http://58.220.219.14:9901/tsfile/live/0127_1.m3u8
 江苏卫视,https://iptv.luas.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/8c0352e42d-0-0-2529f61c8f420136013f1ab8a93169c3/index.m3u8
 江苏卫视,http://221.224.4.170:9901/tsfile/live/0127_1.m3u8
+浙江卫视,http://fangke.blueswords.com:9901/tsfile/live/0130_1.m3u8
 浙江卫视,http://112.45.132.162:9901/tsfile/live/0124_1.m3u8
 浙江卫视,http://117.64.135.99:4022/udp/238.1.78.164:7184
 浙江卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0124_1.m3u8
@@ -654,6 +669,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 浙江卫视,http://58.220.219.14:9901/tsfile/live/0124_1.m3u8
 浙江卫视,https://iptv.luas.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/a2d2162784-0-0-56b13eabd03cd0ff33e9bc019e1fb073/index.m3u8
 浙江卫视,http://221.224.4.170:9901/tsfile/live/0124_1.m3u8
+东南卫视,http://fangke.blueswords.com:9901/tsfile/live/0143_1.m3u8
 东南卫视,http://112.45.132.162:9901/tsfile/live/0108_1.m3u8
 东南卫视,http://117.64.135.99:4022/udp/238.1.78.22:6104
 东南卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0137_1.m3u8
@@ -670,6 +686,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 东南卫视,https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d9afa7cc30-0-0-3e5c5bdb7f887a673145f9e5fe249e7c/index.m3u8
 东南卫视,http://221.224.4.170:9901/tsfile/live/0137_1.m3u8
 广东卫视,http://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws711/1000/index.m3u8?&encrypt=
+广东卫视,http://fangke.blueswords.com:9901/tsfile/live/0142_1.m3u8
 广东卫视,http://112.45.132.162:9901/tsfile/live/0125_1.m3u8
 广东卫视,http://117.64.135.99:4022/udp/238.1.78.161:7160
 广东卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/0125_1.m3u8
@@ -690,6 +707,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 广东卫视,http://58.220.219.14:9901/tsfile/live/0125_1.m3u8
 广东卫视,https://iptv.luas.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/0ff9a42344-0-0-0eb4f8fe53cdbc02d1db696ecc425752/index.m3u8
 广东卫视,http://221.224.4.170:9901/tsfile/live/0125_1.m3u8
+深圳卫视,http://fangke.blueswords.com:9901/tsfile/live/0121_1.m3u8
 深圳卫视,http://112.45.132.162:9901/tsfile/live/0126_1.m3u8
 深圳卫视,http://117.64.135.99:4022/udp/238.1.78.156:7120
 深圳卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/1015_1.m3u8
@@ -726,6 +744,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 云南卫视,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226709/1.m3u8
 云南卫视,http://221.224.4.170:9901/tsfile/live/0119_1.m3u8
 云南卫视,https://iptv.luas.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/3f1dcf4cf3-0-0-3f0618b5bab73c0ebb1be6c66ccbf65d/index.m3u8
+贵州卫视,http://fangke.blueswords.com:9901/tsfile/live/0137_1.m3u8
 贵州卫视,http://112.45.132.162:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://117.64.135.99:4022/udp/238.1.78.244:7824
 贵州卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/1011_1.m3u8
@@ -739,6 +758,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 贵州卫视,http://120.196.232.23:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
 贵州卫视,http://42.53.68.178:9901/tsfile/live/0120_1.m3u8
 贵州卫视,https://iptv.luas.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/bd25603388-0-0-014fe4fb21acfc8414f969b38a29037c/index.m3u8
+四川卫视,http://fangke.blueswords.com:9901/tsfile/live/1000_1.m3u8
 四川卫视,http://112.45.132.162:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://117.64.135.99:4022/udp/238.1.78.30:6168
 四川卫视,http://sxz.zccatv.cn:9901/tsfile/live/0123_1.m3u8
@@ -753,6 +773,7 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 四川卫视,http://58.220.219.14:9901/tsfile/live/0123_1.m3u8
 四川卫视,https://iptv.luas.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/027c826f0e-0-0-4caf8e44f0157ea591d8857569b9a2c3/index.m3u8
 四川卫视,http://221.224.4.170:9901/tsfile/live/0123_1.m3u8
+海南卫视,http://fangke.blueswords.com:9901/tsfile/live/0131_1.m3u8
 海南卫视,http://117.64.135.99:4022/udp/238.1.79.49:4504
 海南卫视,http://2591524704.iptv.netsxz.com:61800/tsfile/live/1005_1.m3u8
 海南卫视,http://222.135.78.62:8154/tsfile/live/1000_1.m3u8
@@ -773,8 +794,8 @@ CCTV-15 音乐,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw13
 兵团卫视,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226661/1.m3u8
 兵团卫视,http://42.53.68.178:9901/tsfile/live/0115_1.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
-西藏卫视,http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8
 西藏卫视,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1594087791_1409479634/envivo_x/2018/SD/xizang/1000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073744&ContentId=524854265&timezone=UTC&mtv_session=5640f857e31349921ba36207946fa904&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=df71711e34a615ea23f680ef139afb1d
+西藏卫视,http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226710/1.m3u8
 西藏卫视,http://42.53.68.178:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://58.220.219.14:9901/tsfile/live/0120_5.m3u8
 西藏卫视,https://iptv.luas.edu.cn/liverespath/223db5dc75cab2536cbebcda8e6730ff6bf58309/1bfac15764-0-0-ba9d0108d3699dca4649eed2ed54fbcb/index.m3u8
@@ -895,6 +916,7 @@ DaAi2 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 卡酷少儿,http://222.134.241.132:9901/tsfile/live/1022_1.m3u8
 哈哈炫动,http://61.169.37.218:9901/tsfile/live/1008_1.m3u8
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+4K高清电影,http://218.241.192.50:8808/udp/239.3.1.249:8001
 超级电影,http://111.13.111.242/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
 超级电影,http://39.134.135.125/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
 超级电影,http://39.134.134.82/000000001000PLTV/88888888/224/3221235755/1.m3u8?HlsProfileId=
