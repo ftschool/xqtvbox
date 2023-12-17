@@ -580,6 +580,8 @@ CCTV-17,http://live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=
 浙江民生休闲,https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 之江纪录,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.m3u8?upt=9bc4860f2510710360
+江苏城市,https://live-hls.jstv.com/livezhuzhan/jscs.flv?upt=d361165c2510710360
+江苏城市,rtmp://live-hls.jstv.com/livezhuzhan/jscs?upt=30a544992510710360
 江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
 江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
 江苏新闻,https://live-hls.jstv.com/livezhuzhan/jsgg.m3u8?upt=4383b1d62510710360
