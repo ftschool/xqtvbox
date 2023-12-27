@@ -29,6 +29,7 @@
         {"key":"云盘分享社","name":"📀阿里分享社(搜索)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
         {"key":"阿里苏苏","name":"📀阿里苏苏(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
         //夸克网盘资源区
+        {"key":"Libvio","name":"LIBVIO|网盘","type":3,"api":"csp_Libvio","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://www.libvio.vip$$$null"},
 		{"key":"drpy_js_KKPANS","name":"KK盘[js]|夸","type":3,"api":"./lib/drpy2.min.js","jar":"./pg.jar","ext":"./js/kkpans.js","quickSearch":1,"changeable":1,"timeout":30},
 		{"key":"drpy_js_趣盤搜","name":"趣盘搜[js]|夸","type":3,"api":"./lib/drpy2.min.js","jar":"./pg.jar","ext":"./js/funletu.js","quickSearch":1,"changeable":1,"timeout":30},
 		{"key":"drpy_js_愛盤搜","name":"爱盘搜[js]|夸","type":3,"api":"./lib/drpy2.min.js","jar":"./pg.jar","ext":"./js/aipanso.js","quickSearch":1,"changeable":1,"timeout":30},
