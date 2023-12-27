@@ -1,8 +1,8 @@
 {
 "token":"98aab627abff44a2ac37c4055af3dfda",
 "open_token":"",
-"thread_limit":32,
-"quark_thread_limit":32,
+"thread_limit":10,
+"quark_thread_limit":10,
 "vod_flags":"4k|4kz|auto",
 "quark_flags":"4kz|auto",
 "aliproxy":"",
@@ -10,6 +10,5 @@
 "open_api_url":"https://api.xhofe.top/alist/ali_open/",
 "danmu":true,
 "quark_danmu":true,
-"quark_cookie":"
-_UP_A4A_11_=wb9071e6c4584319a3e562db2d60c0fe; _UP_D_=pc; _UP_F7E_8D_=OQNlgAklx5owHa8QtjzygZWwAsSGsVzdGUOU%2BWEa1%2FCQ9pt%2Flxcgspx%2F7jdZxm88%2BDZR%2F3OCavVVlSrlA%2FHE35guhUiWeFXSFrpiz7iQup7LB%2BL83Dn0lIDh36hnRcflW%2FQJYV4NNTtiwj8Q5Kt9aW1DXc8CfvFMdjkhOclrgipqYAbrjqRo9YuUE9%2Fs5crDEn21dZLBeV%2Fk%2B85FpAjwXKsr5plZSMb99xGpByDeZCfPdyt%2BwYICCiU1VZu4DtwRoAg3J36dS9aj1m9P204NQdNf5Nyo3ldtw6TWtrcg0yJducQVbH%2BT5yM6TQ0ySWQ88mFyMhj2VouQ%2B%2BFKM%2B0tL1ggY93VJqD%2BguZ2Gmw5X%2FVXG5%2BATr9eEKxIvk7CLNVTZPG%2BMXyVR0GjxobkrXAZ3eIMTE7RyZru; __pus=641a0ed7f446b41cf84a1ddaca3841a2AAQ+WAsGXj6I+2M4kdI4bsSDBDgtZkIUwkFzEW62OEMzu1ufFMEuKXUmqjVzQvpjcWq6CnQzktG2XPjUtrHuEmbE; __kp=cfddcb80-8f7c-11ee-a821-15760f5b9923; __kps=AARYmn539HavVkLtmvJ2yXjl; __ktd=Z6gDEhBP4TKnXyy+2g48Xw==; __uid=AARYmn539HavVkLtmvJ2yXjl; __puus=7808bafa10eafb1e19ec5d4fb4d409b2AAR7DIUGcELBg7BCZ/RB9geJl0dcjU/zt27X7/YTDc6ZiVy4eK2HwwqvHk2S9GP9UMvPIxdo6zOc4swbvjXuH3IehnK/p1h+6UEawX2tBSgviJyK9XS5ZoNRrqrqkHYMbaTp/TlQuBSo4Fs/SOYIjt6FG7ILg7UulljEoXjeNCvTZoVE7pfFKYrMW7MLqfu1PhCrz5H13fLfhhDzjw+6UM3E"
+"quark_cookie":"_UP_A4A_11_=wb9071e6c4584319a3e562db2d60c0fe; _UP_D_=pc; _UP_F7E_8D_=OQNlgAklx5owHa8QtjzygZWwAsSGsVzdGUOU%2BWEa1%2FCQ9pt%2Flxcgspx%2F7jdZxm88%2BDZR%2F3OCavVVlSrlA%2FHE35guhUiWeFXSFrpiz7iQup7LB%2BL83Dn0lIDh36hnRcflW%2FQJYV4NNTtiwj8Q5Kt9aW1DXc8CfvFMdjkhOclrgipqYAbrjqRo9YuUE9%2Fs5crDEn21dZLBeV%2Fk%2B85FpAjwXKsr5plZSMb99xGpByDeZCfPdyt%2BwYICCiU1VZu4DtwRoAg3J36dS9aj1m9P204NQdNf5Nyo3ldtw6TWtrcg0yJducQVbH%2BT5yM6TQ0ySWQ88mFyMhj2VouQ%2B%2BFKM%2B0tL1ggY93VJqD%2BguZ2Gmw5X%2FVXG5%2BATr9eEKxIvk7CLNVTZPG%2BMXyVR0GjxobkrXAZ3eIMTE7RyZru; __pus=641a0ed7f446b41cf84a1ddaca3841a2AAQ+WAsGXj6I+2M4kdI4bsSDBDgtZkIUwkFzEW62OEMzu1ufFMEuKXUmqjVzQvpjcWq6CnQzktG2XPjUtrHuEmbE; __kp=cfddcb80-8f7c-11ee-a821-15760f5b9923; __kps=AARYmn539HavVkLtmvJ2yXjl; __ktd=Z6gDEhBP4TKnXyy+2g48Xw==; __uid=AARYmn539HavVkLtmvJ2yXjl; __puus=7808bafa10eafb1e19ec5d4fb4d409b2AAR7DIUGcELBg7BCZ/RB9geJl0dcjU/zt27X7/YTDc6ZiVy4eK2HwwqvHk2S9GP9UMvPIxdo6zOc4swbvjXuH3IehnK/p1h+6UEawX2tBSgviJyK9XS5ZoNRrqrqkHYMbaTp/TlQuBSo4Fs/SOYIjt6FG7ILg7UulljEoXjeNCvTZoVE7pfFKYrMW7MLqfu1PhCrz5H13fLfhhDzjw+6UM3E"
 }
