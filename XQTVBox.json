@@ -31,6 +31,13 @@
         {"key":"影视车","name":"📀影视车(网盘)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"校长影视","name":"📀校长影视(网盘)","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
 		{"key":"团长资源","name":"📀团长资源(网盘)","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
+        {"key":"Funletu","name":"趣盘搜|夸克","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json"},
+		{"key":"QuarkPanso","name":"夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json"},
+		{"key":"Panta","name":"盘Ta|网盘","type":3,"api":"csp_Panta","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"},
+		{"key":"DaPanSo","name":"大盘搜|网盘","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"},
+		{"key":"Qianfan","name":"千帆|网盘","type":3,"api":"csp_Qianfan","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$QianFanID="},
+		{"key":"YunSo","name":"小云搜索|网盘","type":3,"api":"csp_YunSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json"},
+		{"key":"YunPanOne","name":"云盘资源|网盘","type":3,"api":"csp_YunPanOne","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json"},
         //代理加速区
         //{"key":"Wobg","name":"📀玩偶表哥(代理)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"},
         //{"key":"盘搜","name":"📀盘搜(代理)","type":3,"api":"csp_PanSou","jar":"./pg.jar","ext":"./lib/tokenm.json"},
