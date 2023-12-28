@@ -28,8 +28,6 @@
         {"key":"云盘论坛","name":"📀阿里论坛(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘论坛.json"},
         {"key":"云盘分享社","name":"📀阿里分享社(搜索)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
         {"key":"阿里苏苏","name":"📀阿里苏苏(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
-        {"key":"Local","name":"本地","type":3,"api":"csp_Local"},
-        {"key":"网盘配置","name":"网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"style":{"type":"rect","ratio":1},"ext":"./lib/tokenm.json"},
         {"key":"影视车","name":"📀影视车(网盘)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
 		{"key":"校长影视","name":"📀校长影视(网盘)","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
 		{"key":"团长资源","name":"📀团长资源(网盘)","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
