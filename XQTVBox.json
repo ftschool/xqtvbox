@@ -1,6 +1,6 @@
 {
     "wallpaper":"https://picsum.photos/1280/720/?blur=2",
-    "spider":"./custom_spider.jar",
+    "spider":"./XQ.jar",
     "lives":[
         {"name":"live","type":0,"url":"./live.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://luckyguy.deno.dev/?ch={name}&date={date}","logo":"https://luckyguy.deno.dev/logo/{name}.png"}
     ],
