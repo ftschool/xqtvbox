@@ -34,7 +34,7 @@
         {"key":"Funletu","name":"📀趣盘搜(夸克)","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json"},
 		{"key":"QuarkPanso","name":"📀盘搜(夸克)","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json"},
 		{"key":"DaPanSo","name":"📀大盘搜(网盘)","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"},
-        {"key":"盘99","name":"📀盘99(网盘)","type":3,"api":"csp_Pan99","searchable":1,"changeable":0,"ext":"./alitoken.txt","jar":"./fmjar.jar"},
+        {"key":"盘99","name":"📀盘99(网盘)","type":3,"api":"csp_Pan99","playerType":1,"searchable":1,"changeable":0,"ext":"./alitoken.txt","jar":"./fmjar.jar"},
         //代理加速区
         //{"key":"Wobg","name":"📀玩偶表哥(代理)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"},
         //{"key":"盘搜","name":"📀盘搜(代理)","type":3,"api":"csp_PanSou","jar":"./pg.jar","ext":"./lib/tokenm.json"},
