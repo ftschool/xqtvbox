@@ -63,7 +63,6 @@
         {"key":"csp_XYQHiker_哔嘀影视","name":"(慎用)哔嘀影视(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/哔嘀影视.json"},
         {"key":"csp_XYQHiker_磁力熊","name":"(慎用)磁力熊(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/磁力熊.json"},
         //资源解析区
-        {"key":"影探","name":"🥃影探(解析)","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","ext":"https://d.kstore.space/download/6296/js/yt.js"},
         {"key":"巧技一","name":"🥃巧技(解析)","type":3,"api":"csp_qiao2","playerType":2,"jar":"./qiaoji/fix12210.jar","ext":"https://gitee.com/ftschool/xqtvbox/raw/main/qiaoji/qiaoji"},
         {"key":"天天","name":"🥃天天(解析)","type":3,"api":"csp_TTian","playerType":2,"jar":"./qiaoji/fix12210.jar","ext":"http://op.ysdqjs.cn"},
         {"key":"sliu_spider","name":"🥃石榴(解析)","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"./qiaoji/fix12210.jar"},
