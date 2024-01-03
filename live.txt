@@ -197,16 +197,6 @@ CCTV-17,http://live.aishang.ctlcdn.com/00000110240326_1/encoder/0/playlist.m3u8?
 西藏卫视,http://live.aishang.ctlcdn.com/00000110240076_1/encoder/0/playlist.m3u8?CONTENTID=00000110240076_1&AUTHINFO=GpjjEtyb2RukvcPNJNjiWMrb9KqV1yFADeo7P5Wet%2FtW8xBWD3AdqI03qcxuW65QlsZpIW0HypFo0jq2j7VULIPnsAdCuVrp%2Fw0bdScMjB576%2Fs2UfNCyZK%2BC0GEcx54YEkQIRNpla9FxVacz7GxH8pK9Dr8wKUimzsX7iIbmcT4McjicA7o6Y9kArCgfHDO329cVZMaf98uaM95ZbMhoQ%3D%3D&USERTOKEN=MaaoGk0N0N9tKrErCL03VjlnxuocmuZM
 
 地方台,#genre#
-浙江公共新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科影视,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江频道,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江民生休闲,https://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-之江纪录,https://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.m3u8?upt=2012408f2510710360
 江苏影视,https://live-hls.jstv.com/livezhuzhan/jsys.flv?upt=8f2db1292510710360
 江苏综艺,https://live-hls.jstv.com/livezhuzhan/jszy.m3u8?upt=c472cfa22510710360
@@ -304,12 +294,6 @@ DaAi1 大愛1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 DaAi2 大愛2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 其它综合,#genre#
-风云音乐,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514103.m3u8
-风云剧场,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513603.m3u8
-兵器科技,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513403.m3u8
-风云足球,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012514203.m3u8
-女性时尚,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513903.m3u8
-央视台球,http://645c6e6320d051d49b446bac57d65143.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp/2012513703.m3u8
 生活时尚,http://117.10.52.134:5000/rtp/225.1.1.143:5002
 生活时尚,http://117.28.3.197:4022/rtp/239.61.2.141:8834
 生活时尚,http://183.151.58.238:4022/rtp/233.50.201.187:5140
