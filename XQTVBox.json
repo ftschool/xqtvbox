@@ -38,6 +38,7 @@
         {"key":"Pan99","name":"📀盘99(网盘)","type":3,"api":"csp_Pan99","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://pan99.xyz$$$null$$$1"},
         {"key":"Ppxzy","name":"📀皮皮虾(网盘)","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://ppxzy.net/$$$null$$$1"},
         {"key":"Wobg","name":"📀玩偶表哥(网盘)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
+        {"key":"YunSo","name":"📀小云搜索(网盘)","type":3,"api":"csp_YunSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json"},
         //代理加速区
         //{"key":"Wobg","name":"📀玩偶表哥(代理)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"},
         //{"key":"盘搜","name":"📀盘搜(代理)","type":3,"api":"csp_PanSou","jar":"./pg.jar","ext":"./lib/tokenm.json"},
