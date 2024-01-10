@@ -4,7 +4,7 @@
     "网页编码格式": "UTF-8",
     "图片是否需要代理": "0",
     "搜索请求头参数": "User-Agent$手机",
-    "搜索链接": "https://www.alypw.cn/search.php?q={wd}",
+    "搜索链接": "https://www.alypw.com/search.php?q={wd}",
     "POST请求数据": "",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".list&&li",
