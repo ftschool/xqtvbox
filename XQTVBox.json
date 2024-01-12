@@ -39,7 +39,6 @@
         {"key":"YunSo","name":"📀小云搜索(网盘)","type":3,"api":"csp_YunSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./alitoken.txt","cookie":"./quark_cookie"},
         {"key":"混合盘","name":"📀混合盘(网盘)","type":3,"api":"csp_HunHePan","timeout":30,"jar":"./pg.jar","ext":"./alitoken.txt","cookie":"./quark_cookie"},
         {"key":"秒搜","name":"📀秒搜(网盘)","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./pg.jar","ext":"./alitoken.txt","cookie":"./quark_cookie"},
-        {"key":"Hdhive","name":"影巢|网盘","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
         //代理加速区
         //{"key":"Wobg","name":"📀玩偶表哥(代理)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"jar":"./pg.jar","ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$1"},
         //{"key":"盘搜","name":"📀盘搜(代理)","type":3,"api":"csp_PanSou","jar":"./pg.jar","ext":"./lib/tokenm.json"},
