@@ -65,7 +65,7 @@
         {"key":"csp_XYQHiker_哔嘀影视","name":"(慎用)哔嘀影视(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/哔嘀影视.json"},
         {"key":"csp_XYQHiker_磁力熊","name":"(慎用)磁力熊(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/磁力熊.json"},
         //资源解析区
-        {"key":"sc1080","name":"🥗圣城 ","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./pg.jar","ext":"./lib/SC1080.js"},
+        {"key":"sc1080","name":"🥗圣城 ","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"./lib/SC1080.js"},
         {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./fty.jar","ext":"https://www.zxzjhd.com/"},
         {"key":"996影院","name":"🥃996影院","type":3,"api":"csp_Cs1369","searchable":1,"changeable":1,"jar":"./pg.jar"},
         {"key":"南坊","name":"🥃南坊(解析)","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fty.jar","ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
