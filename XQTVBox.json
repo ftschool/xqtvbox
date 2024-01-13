@@ -71,7 +71,7 @@
         {"key":"csp_beijihu","name":"🥃极狐(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.kuin.one/api.php/app/"},
         {"key":"csp_赞赞","name":"🥃赞赞(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/c.jar","ext":"http://111.230.51.151:9696//api.php/app/"},
         {"key":"萌米","name":"🥃萌米(解析)","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar","ext":"FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"},
-        {"key":"csp_圣城","name":"🥃圣城影视(解析)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/sc1080.js"},
+        {"key":"csp_圣城","name":"🥃圣城影视(解析)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/sc1080.json"},
         {"key":"996影院","name":"🥃996影院","type":3,"api":"csp_Cs1369","searchable":1,"changeable":1,"jar":"./lib/pg.jar"},
         {"key":"南坊","name":"🥃南坊(解析)","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar","ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg="},
         {"key":"南瓜","name":"🥃南瓜(解析)","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
