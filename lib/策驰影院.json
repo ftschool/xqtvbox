@@ -14,7 +14,7 @@
     "副标题": "text-right\"&&</span>",
     "图片": "data-original=\"&&\"",
     "链接": "href=\"&&\"",
-    "搜索url": "/vodsearch/-------------/?wd={wd}",
+    "搜索url": "/vodsearch/-------------/?wd={wd}&submit=",
     "搜索数组": "myui-vodlist__thumb&&</a>",
     "搜索标题": "title=\"&&\"",
     "搜索副标题": "text-right\">&&</span>",
