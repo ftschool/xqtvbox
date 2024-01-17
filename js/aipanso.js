@@ -1,6 +1,6 @@
 var rule = {
 	title:'爱盘搜[夸]',
-	host:'https://aipanso.com',
+	host:'https://www.aipanso.com',
 	homeUrl:'/',
 	url: '/forum-fyclass-fypage.html?',
 	filter_url:'{{fl.class}}',
@@ -13,7 +13,7 @@ var rule = {
 	headers:{
 		'User-Agent': PC_UA,
 		'Accept': '*/*',
-		'Referer': 'https://aipanso.com/'
+		'Referer': 'https://www.aipanso.com/'
 	},
 	timeout:5000,
 	class_name:'',
