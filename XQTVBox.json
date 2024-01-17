@@ -9,12 +9,10 @@
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         //网盘资源区
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
-        //{"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-        {"key":"找資源","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt","cookie":"_ga=GA1.1.1576408284.1705489944; Hm_lvt_f8dbe8e3528b7f9c3a3ac55d5d63f51a=1705489944; Hm_lpvt_f8dbe8e3528b7f9c3a3ac55d5d63f51a=1705489969; username=99141; loginhash=70b17592b39f00d2dcbf784d29bf1886; _ga_87FHSRTKRB=GS1.1.1705489943.1.1.1705489984.0.0.0"},
+        {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         {"key":"csp_AliPS","name":"📀猫狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         {"key":"csp_Yisou","name":"📀易搜(搜索)","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         //{"key":"csp_Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-        //{"key":"Upyunso","name":"📀UP云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt","jar":"https://jihulab.com/duomv/xduo/-/raw/main/ali.jar;md5;5995F4AF461B0969BBF611766ECEB582"},
         {"key":"云搜","name":"📀UP云搜(搜索)","type":3,"api":"csp_UpYun","searchable":1,"changeable":0,"jar":"./lib/fm1113.jar","ext":"./alitoken.txt"},
         {"key":"csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/玩偶哥哥.json"},
         {"key":"csp_XYQHikerAL_云盘资源","name":"📀云盘资源(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘资源.json"},
