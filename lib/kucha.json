@@ -4,7 +4,6 @@
 	"主页url": "https://www.kcys.top/",
 	"热门": "",
     "分类": "电影$20#电视剧$21#综艺$23#动漫$22#",
-
 	"分类url": "https://www.kcys.top/index.php/vod/show/by/{by}/class/{class}/id/{cateId}/page/{catePg}.html",
 	"数组": "<a&&module-poster-item-title",
 	"副标题": "",
@@ -12,7 +11,7 @@
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
 	"搜索模式": "1",
-	"搜索url": "",
+	"搜索url": "https://www.kcys.top/index.php/vod/search.html?wd={wd}",
 	"搜索数组": "",
 	"搜索副标题": "",
 	"年代": "年份：&&</a>",
