@@ -70,7 +70,7 @@
         //资源解析区
         {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzjhd.com/"},
         {"key":"Kuaikan","name":"🥃快看(解析)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/pg.jar"},
-        {"key":"爱看影视","name":"🥃爱看(解析)","type":3,"playerType":"2","api":"./lib/drpy2.min.js","ext":"./lib/爱看.js"},
+        {"key":"爱看影视","name":"🥃爱看(解析)","type":3,"playerType":"2","api":"./lib/drpy2.min.js","jar":"./lib/PandaQ231205.jar","ext":"./lib/爱看.js"},
         {"key":"鑫鑫影视","name":"🥃鑫鑫(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
         {"key":"csp_beijihu","name":"🥃极狐(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.kuin.one/api.php/app/"},
         {"key":"csp_赞赞","name":"🥃赞赞(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/c.jar","ext":"http://111.230.51.151:9696//api.php/app/"},
