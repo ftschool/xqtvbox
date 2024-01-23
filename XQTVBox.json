@@ -41,6 +41,7 @@
         {"key":"混合盘","name":"📀混合盘(网盘)","type":3,"api":"csp_HunHePan","timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt","cookie":"./quark_cookie"},
         {"key":"秒搜","name":"📀秒搜(网盘)","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt","cookie":"./quark_cookie"},
         {"key":"88Pan","name":"📀88网盘(网盘)","type":3,"api":"csp_EightEight","timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt$$$https://662688.xyz","cookie":"./quark_cookie"},
+        {"key":"Pan99","name":"盘99|网盘","type":3,"api":"csp_Pan99","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt$$$https://pan99.xyz$$$null$$$1"},
         {"key":"AliShare","name":"📀阿里云盘分享(网盘)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./alitoken.txt$$$./lib/alishare.txt"},
         {"key":"阿里云集合","name":"📀阿里合集(网盘)","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"jar":"./lib/真心1215.jar","ext":"./alitoken.txt"},
         //代理加速区
