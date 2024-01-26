@@ -18,7 +18,7 @@
 "thunder_vip_thread_limit":0,
 "thunder_flags":"4k|4kz|auto",
 "aliproxy":"",
-"aliproxy_url":"https://bitbucket.org/xqys/xqtvboxziyong/raw/c8c37e57444d26d1a764888f1470e59b7fba993b/aliproxy.gz",
+"aliproxy_url":"https://gitee.com/ftschool/xqtvbox/raw/main/lib/aliproxy.gz/",
 "proxy":"",
 "open_api_url":"https://api.xhofe.top/alist/ali_open/",
 "danmu":true,
