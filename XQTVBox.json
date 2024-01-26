@@ -38,7 +38,7 @@
         {"key":"Ppxzy","name":"📀皮皮虾(网盘)","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt$$$https://ppxzy.net/$$$null$$$1"},
         {"key":"Wobg","name":"📀玩偶表哥(网盘)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
         {"key":"YunSo","name":"📀小云搜索(网盘)","type":3,"api":"csp_YunSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt","cookie":"./quark_cookie"},
-        {"key":"混合盘","name":"📀混合盘(网盘)","type":3,"api":"csp_HunHePan","timeout":30,"jar":"./lib/pg.jar","ext":"https://gitee.com/ftschool/xqtvbox/raw/main/lib/tokenm.json","cookie":"./quark_cookie"},
+        {"key":"混合盘","name":"📀混合盘(网盘)","type":3,"api":"csp_HunHePan","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json","cookie":"./quark_cookie"},
         {"key":"秒搜","name":"📀秒搜(网盘)","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt","cookie":"./quark_cookie"},
         {"key":"88Pan","name":"📀88网盘(网盘)","type":3,"api":"csp_EightEight","timeout":30,"jar":"./lib/pg.jar","ext":"./alitoken.txt$$$https://662688.xyz","cookie":"./quark_cookie"},
         {"key":"AliShare","name":"📀阿里云盘分享(网盘)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./alitoken.txt$$$./lib/alishare.txt"},
