@@ -1,9 +1,9 @@
 {
 "token":"c04228d221d94161a1f1c1060bc84813",
 "open_token":"",
-"thread_limit":10,
+"thread_limit":32,
 "is_vip":true,
-"vip_thread_limit":10,
+"vip_thread_limit":16,
 "vod_flags":"4k|4kz|auto",
 "quark_thread_limit":32,
 "quark_is_vip":true,
