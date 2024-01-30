@@ -27,7 +27,7 @@
         {"key":"csp_XYQHiker_DOVX搜索","name":"📀DOVX(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/DOVX搜索.json"},
         {"key":"csp_XYQHiker_盘搜索","name":"📀盘搜索(搜索)","type":3,"api":"csp_XYQHiker","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/盘搜索.json"},
         //{"key":"盘搜","name":"📀盘搜(搜索)","type":3,"api":"csp_PanSou","searchable":1,"changeable":0,"jar":"./lib/fm1113.jar","ext":"./alitoken.txt"},
-        {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/fan.txt","ext":"./alitoken.txt"},
+        {"key":"PanSou","name":"🦊盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/fty.jar","ext":"./alitoken.txt"},
         {"key":"云盘论坛","name":"📀阿里论坛(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘论坛.json"},
         {"key":"云盘分享社","name":"📀阿里分享社(搜索)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
         {"key":"阿里苏苏","name":"📀阿里苏苏(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
