@@ -70,7 +70,7 @@
         {"key":"csp_XYQHiker_哔嘀影视","name":"(慎用)哔嘀影视(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/哔嘀影视.json"},
         {"key":"csp_XYQHiker_磁力熊","name":"(慎用)磁力熊(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/磁力熊.json"},
         //资源解析区
-        {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzja.com/"},
+        {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzjhd.com/"},
         {"key":"Kuaikan","name":"🥃快看(解析)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/pg.jar"},
         {"key":"鑫鑫影视","name":"🥃鑫鑫(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"http://yingszj.xn--654a.cc/api.php/app/"},
         {"key":"csp_beijihu","name":"🥃极狐(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.kuin.one/api.php/app/"},
