@@ -45,6 +45,7 @@
         {"key":"YunSo","name":"📀小云搜索(网盘)","type":3,"api":"csp_YunSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"混合盘","name":"📀混合盘(网盘)","type":3,"api":"csp_HunHePan","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"秒搜","name":"📀秒搜(网盘)","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
+        {"key":"Hdhive","name":"📀影巢(网盘)","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
         {"key":"88Pan","name":"📀88网盘(网盘)","type":3,"api":"csp_EightEight","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://662688.xyz"},
         {"key":"AliShare","name":"📀阿里影视分享(搜索)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1"},
         {"key":"AliShareEBook","name":"📀阿里书籍分享(网盘)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$./lib/alishare.ebook.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
