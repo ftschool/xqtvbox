@@ -74,6 +74,7 @@
         {"key":"csp_XYQHiker_磁力熊","name":"(慎用)磁力熊(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/磁力熊.json"},
         //资源解析区
         {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzjhd.com/"},
+        {"key":"360","name":"🥃360(解析)","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar":"./lib/小胡.jar"},
         {"key":"酷看","name":"🥃酷看(解析)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         {"key":"csp_Nmys","name":"🥃农民(解析)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json","jar":"./lib/fty.jar"},
         {"key":"Kuaikan","name":"🥃快看(解析)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/pg.jar"},
