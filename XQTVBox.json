@@ -88,7 +88,7 @@
         //{"key":"csp_appys_影探","name":"🥃影探(解析)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"http://cms11.lyyytv.cn/api.php/app/"},
         //{"key":"Yingtantv","name":"🥃影探(解析)","type":3,"api":"csp_Yingtantv2","searchable":1,"changeable":0,"jar":"./lib/追忆影探布蕾带自动追踪.jar"},
         {"key":"Yingtantv","name":"🥃影探(解析)","type":3,"api":"csp_Yingtantv","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"$$$./lib/yt.json$$$1"},
-        {"key":"影视车®APP","name":"♨️影视车®APP","type":3,"api":"csp_LvDou","playerType":1,"ext":{"server":"https://4k.ysctv.cn/api.php/app/","mackey":"yingshicheQQQ4Zi|PHRBxdt7PppocRJ5"},"jar":"./lib/lvdou.jar"},
+        {"key":"影视车®APP","name":"♨️影视车®APP","type":3,"api":"csp_LvDou","playerType":1,"ext":{"server":"https://4k.ysctv.cn/api.php/app/","mackey":"yingshicheYYY4Zi|PHRBxdt7PppocRJ5"},"jar":"./lib/lvdou.jar"},
         {"key":"Buleitv","name":"🥃布蕾(解析)","type":3,"api":"csp_Buleitv","searchable":1,"changeable":0,"jar":"./lib/追忆影探布蕾带自动追踪.jar"},
         {"key":"Zhuiyitv","name":"🥃追忆(解析)","type":3,"api":"csp_Zhuiyitv","searchable":1,"changeable":0,"jar":"./lib/追忆影探布蕾带自动追踪.jar"},
         {"key":"HDmoli","name":"🥃HDmoli(解析)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/HDmoli.json"},
