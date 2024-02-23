@@ -11,8 +11,8 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://77zys.com/{cateId}/page/{catePg}[firstPage=https://77zys.com//{cateId}]",
-    "分类名称": "欧美剧&日韩剧&其他剧&欧美电影&日韩电影&其他电影",
-    "分类名称替换词": "omjj&rhjj&qtjj&omdy&rhdy&qtdy",
+    "分类名称": "电影&电视剧&动漫&纪录片&综艺",
+    "分类名称替换词": "dy&dsj&dm&jlp&zy",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
