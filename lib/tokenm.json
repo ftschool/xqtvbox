@@ -1,4 +1,5 @@
 {
+"use_internal_storage":false,
 "token":"c8b0c69fefb64f04a24ba4ee08d8523e",
 "open_token":"",
 "open_api_url":"get|https://adrive.xdow.net/oauth/access_token",
