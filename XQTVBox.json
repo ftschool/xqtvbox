@@ -76,6 +76,7 @@
         {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzjhd.com/"},
         {"key":"乐视","name":"🥃乐视(解析)","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/"},
         {"key":"酷看","name":"🥃酷看(解析)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
+        {"key":"酷影视","name":"酷影｜影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
         //{"key":"csp_Nmys","name":"🥃农民(解析)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json","jar":"./lib/fty.jar"},
         //{"key":"nmys_js","name":"🥃农民(解析)","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://jihulab.com/okcaptain/kko/-/raw/main/drpy/drpy2.min.js","ext":"https://jihulab.com/okcaptain/kko/-/raw/main/js/nmys.js","timeout":15},
         {"key":"nm","name":"🥃农民(解析)","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":0,"jar":"./lib/YSZYZ.jar","ext":"https://v.nmvod.cn"},
