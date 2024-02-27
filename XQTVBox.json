@@ -72,6 +72,7 @@
         {"key":"csp_XYQHiker_蚂蚁4K","name":"(慎用)蚂蚁4K(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/蚂蚁4K.json"},
         {"key":"csp_XYQHiker_哔嘀影视","name":"(慎用)哔嘀影视(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/哔嘀影视.json"},
         {"key":"csp_XYQHiker_磁力熊","name":"(慎用)磁力熊(XQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/磁力熊.json"},
+        {"key":"賤賤","name":"(慎用)荐片","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"jar":"./lib/pg.jar","ext":"./lib/jianpian.json"},
         //资源解析区
         {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzjhd.com/"},
         {"key":"乐视","name":"🥃乐视(解析)","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/"},
