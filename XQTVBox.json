@@ -52,6 +52,7 @@
         {"key":"秒搜","name":"📀秒搜(网盘)","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"Hdhive","name":"📀影巢(网盘)","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
         {"key":"88Pan","name":"📀88网盘(网盘)","type":3,"api":"csp_EightEight","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://662688.xyz"},
+        {"key":"PikaSo","name":"📀皮卡搜(网盘)","type":3,"api":"csp_PikaSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
         {"key":"美剧迷","name":"📀美剧迷(网盘)","type":3,"api":"csp_Meijumi","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
         {"key":"Moli","name":"📀HDmoli(夸克)","type":3,"api":"csp_Moli","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
         {"key":"Libvio","name":"📀LIBVIO(夸克)","type":3,"api":"csp_Libvio","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.libvio.pw$$$null"},
