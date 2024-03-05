@@ -44,7 +44,7 @@
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
     "搜索链接": "https://aliwp.cn/search.php?mod=forum&amp;mobile=2;post",
-    "POST请求数据": "srchtxt=searchsubmit=yes&kw={wd}",
+    "POST请求数据": "srchtxt={wd}&searchsubmit=yes",
     "搜索截取模式": "1",
     "搜索列表数组规则":  "body&&.threadlist&&ul&&li",
     "搜索片单是否Jsoup写法": "1",
