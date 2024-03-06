@@ -38,6 +38,7 @@
         {"key":"阿里苏苏","name":"📀阿里苏苏(搜索)","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
         {"key":"AList","name":"📀雅雅(网盘)","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"jar":"./lib/YSZYZ.jar","ext":"https://d.kstore.space/download/6474/tvbox/json/xy.json#公众号:影视资源站","style":{"type":"list"}},
         {"key":"影视车","name":"📀影视车(网盘)","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.weixine.net/$$$null$$$1$$$./lib/wogg.json"},
+        {"key":"盘友圈","name":"📀盘友圈(网盘)","type":3,"api":"csp_Panyq","timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"校长影视","name":"📀校长影视(网盘)","type":3,"api":"csp_XiaoZhang","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
 		{"key":"团长资源","name":"📀团长资源(网盘)","type":3,"api":"csp_TZFile","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
         {"key":"Funletu","name":"📀趣盘搜(夸克)","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
