@@ -82,6 +82,7 @@
         {"key":"賤賤","name":"(慎用)荐片","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"jar":"./lib/pg.jar","ext":"./lib/jianpian.json"},
         //资源解析区
         //{"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzjhd.com/"},
+        {"key":"原创","name":"☀原创┃无广","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         {"key":"乐视","name":"🥃乐视(解析)","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/"},
         {"key":"酷看","name":"🥃酷看(解析)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         //{"key":"csp_Nmys","name":"🥃农民(解析)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json","jar":"./lib/fty.jar"},
