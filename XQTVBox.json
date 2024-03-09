@@ -83,6 +83,7 @@
         //资源解析区
         //{"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzjhd.com/"},
         {"key":"原创","name":"🥃原创(解析)","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
+        {"key":"追剧","name":"🥃追剧(解析)","type":3,"api":"csp_AppTT","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
         {"key":"乐视","name":"🥃乐视(解析)","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/"},
         {"key":"酷看","name":"🥃酷看(解析)","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         //{"key":"csp_Nmys","name":"🥃农民(解析)","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"./lib/nmys.json","jar":"./lib/fty.jar"},
