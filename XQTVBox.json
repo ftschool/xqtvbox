@@ -88,6 +88,7 @@
         {"key":"mingriyingshi","name":"🥃明日(解析)","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Kuyun77","name":"🥃七七(解析)","type":3,"api":"csp_Kuyun77","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         //{"key":"Shijuedy","name":"🥃看看(解析)","type":3,"api":"csp_WexShijuedy","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
+        {"key":"Diduanys","name":"🥃深渊(解析)","type":3,"api":"csp_WexDiduanys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Kanmeiju","name":"🥃美剧(解析)","type":3,"api":"csp_WexKanmeiju","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"csp_CandyMuj_hjtv","name":"🥃韩剧TV(解析)","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/candymuj.jar"},
         {"key":"在线之家","name":"🥃在线之家(解析)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzja.com/"},
