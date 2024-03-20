@@ -12,7 +12,7 @@
         {"key":"Fangniu4k","name":"放牛|4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
         {"key":"玩偶哥哥","name":"玩偶|4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/fty.jar","ext":"./alitoken.txt$$$https://www.wogg.link/$$$弹"},
         {"key":"csp_XYQHikerAL_玩我哥哥","name":"玩我|4K","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/玩我哥哥.json"},
-        {"key":"Wobg","name":"表哥|4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"},
+        {"key":"Wobg","name":"表哥|4K","type":3,"api":"csp_WoGG","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/fty.jar","ext":"./alitoken.txt$$$https://wobge.run.goorm.io/$$$弹"},
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
         //{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
