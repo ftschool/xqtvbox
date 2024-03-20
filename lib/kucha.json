@@ -11,7 +11,7 @@
 	"标题": "title=\"&&\"",
 	"链接": "href=\"&&\"",
 	"搜索模式": "1",
-	"搜索url": "https://www.kcys.top/search/index.html?keyword={wd}",
+	"搜索url": "https://www.kcys.top/index.php/vod/search.html?wd={wd}",
 	"搜索数组": "",
 	"搜索副标题": "",
 	"年代": "年份：&&</a>",
