@@ -155,6 +155,7 @@
         {"key":"Wexvipduanju","name":"短剧2|2K","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Wexduanju001","name":"短剧3|2K","type":3,"api":"csp_Wexduanju001","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"zz","name":"短剧4|2K","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/YSZYZ.jar","ext":"https://zzdj.cc/api.php/provide/vod"},
+        {"key":"532短剧","name":"💓┃短剧┃视频","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":"分类url:https://admin.532kan.com/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}.html,分类:短剧$23,首页:短剧$16"},
         //音乐欣赏区
         {"key":"Iktv","name":"🛰KTV","type":3,"api":"csp_WexIktv","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
         {"key":"Yinyuetai","name":"🛰音悦台MV","type":3,"api":"csp_WexYinyuetai","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
