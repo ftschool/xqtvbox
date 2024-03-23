@@ -68,7 +68,6 @@
         //磁力资源区
         {"key":"csp_Mp4Mov","name":"Mp4|磁","type":3,"api": "csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_New6v","name":"新6V|磁","type":3,"api": "csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com"},
-        {"key":"csp_xpath_yinfans","name":"音范丝|磁","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/pg.jar","ext":"./lib/音范丝.json"},
         {"key":"csp_SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         //{"key":"csp_KubaCL","name":"酷吧|磁","type":3,"api":"csp_KubaCL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}, 
         //{"key":"csp_MeijuTT","name":"美剧|磁","type":3,"api":"csp_MeijuTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
