@@ -89,6 +89,7 @@
         {"key":"苹果","name":"苹果|2K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         {"key":"mingriyingshi","name":"明日|2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Kuyun77","name":"七七|2K","type":3,"api":"csp_Kuyun77","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
+        {"key":"Auete","name":"奥特|2K","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar","ext":"https://auete.pro"},
         //{"key":"Shijuedy","name":"🥃看看(解析)","type":3,"api":"csp_WexShijuedy","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Diduanys","name":"深渊|2K","type":3,"api":"csp_WexDiduanys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"F4kvm","name":"纯享|2K","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
