@@ -42,7 +42,7 @@
         //{"key":"盘搜","name":"📀盘搜(搜索)","type":3,"api":"csp_PanSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"PanSou","name":"盘So|4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/wyz.jar","ext":"./alitoken.txt"},
         {"key":"云盘论坛","name":"论坛|4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘论坛.json"},
-        {"key":"云盘分享社","name":"分社|4K","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
+        //{"key":"云盘分享社","name":"分社|4K","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
         {"key":"阿里苏苏","name":"苏苏|4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
         {"key":"AList","name":"雅雅|4K","type":3,"api":"csp_AListBox","searchable":1,"changeable":0,"jar":"./lib/YSZYZ.jar","ext":"./lib/yaya.json#公众号:影视资源站","style":{"type":"list"}},
         //{"key":"影视车","name":"影车|4K","type":3,"api":"csp_Wogg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.weixine.link/$$$null$$$1$$$./lib/wogg.json"},
