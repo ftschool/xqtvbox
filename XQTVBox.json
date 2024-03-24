@@ -38,7 +38,7 @@
         {"key":"csp_PanSearch","name":"盘Se|4K","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/PandaQ240318.jar","ext":"./alitoen.txt"},
         //{"key":"PanSearch","name":"📀盘搜索(网盘)","type":3,"api":"csp_PanSearch","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         //{"key":"盘搜","name":"📀盘搜(搜索)","type":3,"api":"csp_PanSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
-        {"key":"PanSou","name":"盘搜|4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/wyz.jar","ext":"./alitoken.txt"},
+        {"key":"PanSou","name":"盘So|4K","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/wyz.jar","ext":"./alitoken.txt"},
         {"key":"云盘论坛","name":"论坛|4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘论坛.json"},
         {"key":"云盘分享社","name":"分社|4K","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/云盘分享社.json"},
         {"key":"阿里苏苏","name":"苏苏|4K","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/阿里苏苏.json"},
