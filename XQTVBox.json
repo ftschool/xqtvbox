@@ -19,7 +19,7 @@
         //{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         //{"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         //{"key":"csp_AliPS","name":"📀猫狸盘搜(搜索)","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
-        {"key":"AliPS","name":"猫狸|4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/wyog.jar","ext":"./alitoken.txt"},
+        //{"key":"AliPS","name":"猫狸|4K","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/wyog.jar","ext":"./alitoken.txt"},
         {"key":"csp_Yisou","name":"易搜|4K","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         //{"key":"UP云搜","name":"📀UP云搜(搜索)","type":3,"api":"csp_UpYun","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         //{"key":"csp_XYQHikerAL_玩偶哥哥","name":"📀玩偶哥哥(搜索)","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/玩偶哥哥.json"},
