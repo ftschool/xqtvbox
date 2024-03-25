@@ -16,7 +16,7 @@
     //"筛选数据": {},
     "筛选数据": "ext",
     //{cateId}
-    "筛选子分类链接": "http://kxys.site:3328/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}.html",
+    //"筛选子分类链接": "http://kxys.site:3328/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/letter/{letter}/year/{year}.html",
     //"筛选子分类名称": "玩我电影片库&玩我剧集片库&动漫片库&综艺片库&短剧片库&音乐片库",
     //"筛选子分类替换词": "1&2&3&4&5&6",
     //{class}
