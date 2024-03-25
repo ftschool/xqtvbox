@@ -99,7 +99,7 @@
         {"key":"哔嘀影视","name":"哔嘀|2K","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Wexbttwo","name":"BT2|2K","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Kanmeiju","name":"美剧|2K","type":3,"api":"csp_WexKanmeiju","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
-        {"key":"csp_xb_ysgc","name":"工厂|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XBPQ.jar","ext":"./lib/影视工厂.json"},
+        {"key":"csp_xb_ysgc","name":"工厂|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XBPQ.jar","ext":"https://www.ysgc.fun/vodtype/{cateId}-{catePg}.html"},
         {"key":"csp_CandyMuj_hjtv","name":"韩剧|2K","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/candymuj.jar"},
         //{"key":"在线之家","name":"在线|2K","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzja.com/"},
         {"key":"原创","name":"原创|2K","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
