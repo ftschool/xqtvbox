@@ -98,6 +98,7 @@
         //{"key":"Shijuedy","name":"🥃看看(解析)","type":3,"api":"csp_WexShijuedy","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Diduanys","name":"深渊|2K","type":3,"api":"csp_WexDiduanys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"F4kvm","name":"纯享|2K","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
+        {"key":"Wexdiguatv","name":"桃子|2K","type":3,"api":"csp_Wexdiguatv","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"哔嘀影视","name":"哔嘀|2K","type":3,"api":"csp_WexBDys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Wexbttwo","name":"BT2|2K","type":3,"api":"csp_Wexbttwo","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Kanmeiju","name":"美剧|2K","type":3,"api":"csp_WexKanmeiju","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
