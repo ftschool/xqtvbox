@@ -164,6 +164,7 @@
         //{"key":"小胡","name":"🥃小胡(解析)","type":1,"playerType":2,"api":"http://cc.xzam.cn/api.php/provide/vod/","playUrl":"http://pp.xzam.cn/player/?url=","style":{"type":"list"}},
         //{"key":"hh","name":"🥃小胡(解析)","type":3,"api":"csp_WebHH","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/YSZYZ.jar"},
         {"key":"baipiaoys","name":"白嫖|2K","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","jar":"./lib/XBPQ.jar","ext":"./lib/baipiao.json"},
+        {"key":"NVNA","name":"NVNA|2K","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","jar":"./lib/XBPQ.jar","ext":"./lib/NVNA.json"},
         //{"key":"997","name":"视觉|2K","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"jar":"./lib/YSZYZ.jar","ext":"https://www.6080yy4.com"},
         {"key":"蚂蚁","name":"蚂蚁|2K","type":3,"api":"csp_AppYsV2","jar":"./lib/小胡(新).jar","ext":"http://122.228.84.103:5822/api.php/app/"},
         {"key":"Wexvipduanju","name":"短剧1|2K","type":3,"api":"csp_Wexvipduanju","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
