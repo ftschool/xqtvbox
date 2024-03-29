@@ -54,7 +54,7 @@
 "演员详情": ".detail-info-row-main,1&&Text",
 "简介详情": "'剧情介绍：'+.detail-desc&&Text",
 "搜索请求头参数": "User-Agent$手机",
-"搜索链接": "https://www.keke7.app/search?os=pc&k={wd}",
+"搜索链接": "https://www.keke7.app/search?k={wd}&page={pg}",
 //"POST请求数据": "searchword={wd}",
 "搜索截取模式": "1",
 "搜索列表数组规则": ".search-result-list&&a",
