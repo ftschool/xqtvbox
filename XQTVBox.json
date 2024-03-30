@@ -2,7 +2,7 @@
     "wallpaper":"https://picsum.photos/1280/720/?blur=2",
     "spider":"./XQ.jar",
     "lives":[
-        {"name":"live","type":0,"url":"./live.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+        {"name":"live","type":0,"url":"./live.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://proxy.api.030101.xyz/https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://proxy.api.030101.xyz/https://epg.112114.xyz/logo/{name}.png"}
     ],
     "sites":[
         {"key":"drpy_js_豆瓣","name":"❤小青影视❤切勿传播！","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/drpy.js"},
