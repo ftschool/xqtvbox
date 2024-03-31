@@ -8,6 +8,6 @@
                 "影片类型": "<div class=\"module-info-tag\">&&立即播放",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
-                "分类": "电影$1#电视剧$2#动漫$3#短剧$4#综艺$5",
+                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
                 "分类url": "https://dianying.xianshe.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html"
 }
