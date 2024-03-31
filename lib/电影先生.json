@@ -9,6 +9,8 @@
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
                 "播放数组": "<div class=\"scroll-content\">&&</div>",
+                "线路数组": "data-dropdown-value=&&</div>",
+                "播放标题": "<span>&&</span>",
                 "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
                 "分类url": "https://dianying.xianshe.ng/pianku-{cateId}-{area}-------{catePg}---{year}.html"
 }
