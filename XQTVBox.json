@@ -94,7 +94,6 @@
         {"key":"Bt0","name":"不太灵|磁","type":3,"api":"csp_Bt0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"null$$$null$$$1"},
         //资源解析区
         {"key":"苹果","name":"苹果|2K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
-        {"key":"奇异影视","name":"奇异|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/奇异影视.json"},
         {"key":"mingriyingshi","name":"明日|2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         //{"key":"Kuyun77","name":"七七|2K","type":3,"api":"csp_Kuyun77","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         //{"key":"Shijuedy","name":"🥃看看(解析)","type":3,"api":"csp_WexShijuedy","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
