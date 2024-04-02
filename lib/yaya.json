@@ -1,5 +1,6 @@
 {
-    "vodPic": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
+    "vodFolderPic": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
+    "vodFilePic": "https://inews.gtimg.com/newsapp_bt/0/13263837859/1000",
     "classes": [
         {
             "type_name": "今日更新",
@@ -34,7 +35,11 @@
     ],
     "site": {
         "name": "雅雅",
-        "server": "http://113.89.235.94:5678"
+        "server": "http://14.212.211.34:5678",
+        "login": {
+            "username": "",
+            "password": ""
+        }
     },
     "homeContent": "/每日更新/电影/中国"
 }
