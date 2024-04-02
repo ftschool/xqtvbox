@@ -55,7 +55,7 @@
         {"key":"Funletu","name":"趣盘|4K","type":3,"api":"csp_Funletu","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
 		{"key":"QuarkPanso","name":"盘搜|4K","type":3,"api":"csp_QuarkPanso","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
 		{"key":"DaPanSo","name":"大盘|4K","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://dapanso.com$$$null"},
-        {"key":"Ppxzy","name":"皮虾|4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://ppxzy.net$$$null$$$1"},
+        {"key":"Ppxzy","name":"皮虾|4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1"},
         {"key":"YunSo","name":"小云|4K","type":3,"api":"csp_YunSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"},
         {"key":"混合盘","name":"混合|4K","type":3,"api":"csp_HunHePan","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"秒搜","name":"秒搜|4K","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
