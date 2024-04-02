@@ -35,7 +35,7 @@
     ],
     "site": {
         "name": "雅雅",
-        "server": "http://alist.xiaoya.pro",
+        "server": "http://14.212.211.34:5678",
         "login": {
             "username": "",
             "password": ""
