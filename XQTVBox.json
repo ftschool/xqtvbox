@@ -10,7 +10,7 @@
         //网盘资源区
         {"key":"网盘配置","name":"📀网盘及彈幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"csp_appys_影盒","name":"影探|4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/yt.jar","ext":"http://cms-ythz.lyyytv.cn/api.php/app/nav?token="},
-        {"key":"Fangniu4k","name":"放牛|4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":0,"jar":"./lib/wex.jar","ext":"4kZ6imgLKJoo01pBYaKg3xYg99lSMVQ4KDB57PESW3/AbjG6VE2l4xHHODQlYenTlpvkr5ru3PN/sNUfCAF03aSD3KmSNTkLRTFpgVXKTypaDWcUv82OiwzxF/qbZIXEcb17t3XtU0InPYEM+T7UfU3Hrsb6Y4lNuEJdm6C/udn2OIRKpWzN+ph6+twVTfrQAjzfn/pBj2DED59wgwsyfGQ7xpvEjAD9pQ3F7bG5z+YQWAc1IobunE3x095WyYd24+yonYC8yV91UoFLtxwsQOubLfKpqSgvMGOisz8yOWG5DeOimP6+KWxjuNJnjAw75/WZtv2K2nYdA5PxDUaCQJ7gfOc0zpvdEyGaGHUdfwQi7/M+ABAfyuCG5ASLeDWUYjCR2LsivNWoF3y+dYZ+uCDPr8gxlnuqBcfSFEGyMbym/O/99LfqFbzqYwYTxxgR"},
+        {"key":"Fangniu4k","name":"放牛|4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
         {"key":"玩偶哥哥","name":"玩偶|4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"jar":"./lib/fty.jar","ext":"./alitoken.txt$$$https://www.wogg.link/$$$弹"},
         {"key":"csp_XYQHikerAL_玩我哥哥","name":"玩我|4K","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/玩我哥哥.json"},
         //{"key":"Wwgg","name":"玩我|4K","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$http://kxys.site:3328$$$null$$$1$$$./lib/wogg.json"},
