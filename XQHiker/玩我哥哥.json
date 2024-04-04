@@ -13,7 +13,6 @@
     "分类链接": "http://kxys.site:3328/vodtype/{cateId}",
     "分类名称": "玩我电影&玩我剧集&动漫&综艺",
     "分类名称替换词": "1&2&3&4",
-    "筛选分类链接": "https://wogg.link/index.php/vodshow/{cateId}-{area}--{class}-{lang}-{letter}------{year}.html",
     //"筛选数据": {},
     "筛选数据": "ext",
     //{cateId}
