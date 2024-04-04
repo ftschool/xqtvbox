@@ -89,7 +89,8 @@
         //{"key":"csp_XYQHiker_高清MP4","name":"高清MP4|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/高清MP4.json"},
         //{"key":"csp_XYQHiker_蚂蚁4K","name":"蚂蚁4K|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/蚂蚁4K.json"},
         {"key":"csp_XYQHiker_哔嘀影视","name":"哔嘀|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/哔嘀影视.json"},
-        {"key":"csp_XYQHiker_磁力熊","name":"磁力熊|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/磁力熊.json"},
+        //{"key":"csp_XYQHiker_磁力熊","name":"磁力熊|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/磁力熊.json"},
+        {"key":"drpy_js_磁力熊[磁]","name":"🧲磁力 | 磁力熊[磁][js]","type":3,"api":"https://qu.ax/NtMt.js","ext":"https://qu.ax/zGrL.js"},
         {"key":"賤賤","name":"荐片|磁","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"jar":"./lib/pg.jar","ext":"./lib/jianpian.json"},
         {"key":"Bt0","name":"不太灵|磁","type":3,"api":"csp_Bt0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"null$$$null$$$1"},
         //资源解析区
