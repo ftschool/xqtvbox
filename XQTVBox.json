@@ -102,7 +102,6 @@
         {"key":"Kanmeiju","name":"美剧|2K","type":3,"api":"csp_WexKanmeiju","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         //{"key":"csp_CandyMuj_hjtv","name":"韩剧|2K","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/candymuj.jar"},
         //{"key":"在线之家","name":"在线|2K","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzja.com/"},
-        {"key":"csp_爱优","name":"爱优|2K","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":{"分类url":"https://www.iuys.top/vodshow/{cateId}-{area}-------{catePg}---{year}.html","分类":"电视剧$1#电影$2#动漫$3#综艺$4"}},
         {"key":"原创","name":"原创|2K","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         {"key":"追剧","name":"追剧|2K","type":3,"api":"csp_AppTT","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"jar":"./lib/fty.jar","ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
         {"key":"黑木耳资源","name":"木耳|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/木耳资源.json"},
