@@ -60,7 +60,7 @@
     "线路列表数组规则": ".module-player-tab&&.module-tab-item:contains(阿里)",
     "线路标题": "span&&Text",
     "播放列表数组规则": "body&&.module-player-list",
-    "选集列表数组规则": ".module-row-one",
+    "选集列表数组规则": ".module-row-one:contains(ali)",
     "选集标题链接是否Jsoup写法": "是",
     "选集标题": "h4&&Text",
     "选集链接": ".btn-down&&a&&href",
