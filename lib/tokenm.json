@@ -7,7 +7,7 @@
 "oauth_client_secret":"",
 "oauth_auth_url":"",
 "oauth_refresh_url":"",
-"thread_limit":32,
+"thread_limit":0,
 "is_vip":true,
 "vip_thread_limit":16,
 "vod_flags":"4kz|auto",
