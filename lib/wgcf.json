@@ -1,1 +1,288 @@
-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
+{
+	"log": {
+		"loglevel": "warn"
+	},
+	"dns": {
+		"disableFallbackIfMatch": true,
+		"hosts": {},
+		"queryStrategy": "UseIPv4",
+		"servers": [
+			{
+				"address": "tcp://1.1.1.1",
+				"concurrency": true
+			},
+			{
+				"address": "http+local://223.5.5.5/dns-query",
+				"concurrency": true,
+				"domains": [
+					"full:cdn-all.xn--b6gac.eu.org"
+				],
+				"skipFallback": true
+			}
+		]
+	},
+	"outbounds": [
+		{
+			"settings": {
+				"secretKey": "KEY",
+				"mtu": 1400,
+				"peers": [
+					{
+						"publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+						"endpoint" : "engage.cloudflareclient.com:2408"
+					}
+				],
+				"address": [
+					"172.16.0.2/32",
+					"2606:4700:110:893c:845c:536b:5565:8106/128"
+				],
+				"kernelMode": false
+			},
+			"protocol": "wireguard",
+			"streamSettings": {
+				"network": "tcp"
+			},
+			"tag":"directwarp"
+		},
+		{
+			"settings": {
+				"secretKey": "KEY",
+				"mtu": 1280,
+				"peers": [
+					{
+						"publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=",
+						"endpoint" : "engage.cloudflareclient.com:2408"
+					}
+				],
+				"address": [
+					"172.16.0.2/32",
+					"2606:4700:110:893c:845c:536b:5565:8106/128"
+				],
+				"kernelMode": false
+			},
+			"protocol": "wireguard",
+			"streamSettings": {
+				"network": "tcp"
+			},
+			"tag":"warpoverwarp",
+			"proxySettings": {
+				"tag": "directwarp",
+				"transportLayer": true
+			}
+		},
+		{
+			"protocol": "vless",
+			"settings": {
+				"vnext": [
+					{
+						"address": "cdn-all.xn--b6gac.eu.org",
+						"port": 443,
+						"users": [
+							{
+								"id": "VLESSID",
+								"encryption": "none",
+								"level":0
+							}
+						]
+					}
+				]
+			},
+			"streamSettings": {
+				"network": "ws",
+				"security": "tls",
+				"tlsSettings": {
+					"serverName": "VLESSCFWORKERNAME",
+					"allowInsecure": true
+				},
+				"wsSettings": {
+					"headers": {
+						"Host": "VLESSCFWORKERNAME"
+					},
+					"path": "/?ed=2048"
+				}
+			},
+			"tag":"vlesscf"
+		},
+		{
+			"protocol": "vless",
+			"settings": {
+				"vnext": [
+					{
+						"address": "cdn-all.xn--b6gac.eu.org",
+						"port": 443,
+						"users": [
+							{
+								"id": "VLESSID",
+								"encryption": "none",
+								"level":0
+							}
+						]
+					}
+				]
+			},
+			"streamSettings": {
+				"network": "ws",
+				"security": "tls",
+				"tlsSettings": {
+					"serverName": "VLESSCFWORKERNAME",
+					"allowInsecure": true
+				},
+				"wsSettings": {
+					"headers": {
+						"Host": "VLESSCFWORKERNAME"
+					},
+					"path": "/?ed=2048"
+				}
+			},
+			"tag":"vlesscfoverwarp",
+			"proxySettings": {
+				"tag": "directwarp",
+				"transportLayer": true
+			}
+		},
+		{
+			"protocol": "freedom",
+			"tag": "direct"
+		}
+	]
+	,
+	"inbounds":[ 
+		{
+			"listen": "0.0.0.0",
+			"port": 10070,
+			"protocol": "http",
+			"settings": {
+				"allowTransparent": true
+			},
+			"sniffing": {
+				"destOverride": [
+					"http",
+					"tls",
+					"quic"
+				],
+				"enabled": true,
+				"routeOnly": true
+			},
+			"tag": "http"
+		},
+		{
+			"port": 10071,
+			"protocol": "socks",
+			"settings": {
+				"udp": true,
+				"auth": "noauth"
+			},
+			"tag":"socks5",
+			"sniffing": {
+				"destOverride": [
+					"http",
+					"tls",
+					"quic"
+				],
+				"enabled": true,
+				"routeOnly": true
+			}
+		},
+		{
+			"port": 10072,
+			"protocol": "socks",
+			"settings": {
+				"udp": true,
+				"auth": "noauth"
+			},
+			"tag":"socks5overvless",
+			"sniffing": {
+				"destOverride": [
+					"http",
+					"tls",
+					"quic"
+				],
+				"enabled": true,
+				"routeOnly": true
+			}
+		},
+		{
+			"port": 10073,
+			"protocol": "socks",
+			"settings": {
+				"udp": true,
+				"auth": "noauth"
+			},
+			"tag":"socks5overwarpoverwarp",
+			"sniffing": {
+				"destOverride": [
+					"http",
+					"tls",
+					"quic"
+				],
+				"enabled": true,
+				"routeOnly": true
+			}
+		},
+		{
+			"port": 10074,
+			"protocol": "socks",
+			"settings": {
+				"udp": true,
+				"auth": "noauth"
+			},
+			"tag":"socks5overvlessoverwarp",
+			"sniffing": {
+				"destOverride": [
+					"http",
+					"tls",
+					"quic"
+				],
+				"enabled": true,
+				"routeOnly": true
+			}
+		}
+	],
+	"routing": {
+		"domainStrategy": "AsIs",
+		"rules": [
+			{
+				"type": "field",
+				"ip": [
+					"127.0.0.1"
+				],
+				"outboundTag": "direct"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"socks5"
+				],
+				"outboundTag": "directwarp"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"socks5overvless"
+				],
+				"outboundTag": "vlesscf"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"http"
+				],
+				"outboundTag": "vlesscf"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"socks5overwarpoverwarp"
+				],
+				"outboundTag": "warpoverwarp"
+			},
+			{
+				"type": "field",
+				"inboundTag": [
+					"socks5overvlessoverwarp"
+				],
+				"outboundTag": "vlesscfoverwarp"
+			}
+		]
+	}
+}
