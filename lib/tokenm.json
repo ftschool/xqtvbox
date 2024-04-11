@@ -45,6 +45,7 @@
 "pikpak_proxy":"",
 "pikpak_proxy_onlyapi":false,
 "pikpak_danmu":true,
+"wgcf_geoip_url":"./geoip.dat.gz",
 "wgcf_key":"",
 "wgcf_ipport":"",
 "wgcf_xray_url":"./xray.gz",
