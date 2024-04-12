@@ -62,7 +62,7 @@
         {"key":"秒搜","name":"秒搜|4K","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://miaosou.fun$$$127.0.0.1:10071","style":{"type":"list","ratio":1.1}},
         {"key":"Hdhive","name":"影巢|4K","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
         {"key":"88Pan","name":"88盘|4K","type":3,"api":"csp_EightEight","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://662688.xyz"},
-        {"key":"PikaSo","name":"皮卡|4K","type":3,"api":"csp_PikaSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
+        {"key":"PikaSo","name":"皮卡|4K","type":3,"api":"csp_PikaSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$127.0.0.1:10071$$$null"},
         {"key":"Libvio","name":"利播|4K","type":3,"api":"csp_Libvio","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.libvio.pw$$$null"},
         {"key":"Xpanpan","name":"小盘|4K","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
         {"key":"AliShare","name":"影视|4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio": 1.1}},
