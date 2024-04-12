@@ -59,7 +59,7 @@
         {"key":"Ppxzy","name":"皮虾|4K","type":3,"api":"csp_Ppxzy","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://ppxzy.ink$$$null$$$1"},
         {"key":"YunSo","name":"小云|4K","type":3,"api":"csp_YunSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.yunso.net$$$null$$$1"},
         {"key":"混合盘","name":"混合|4K","type":3,"api":"csp_HunHePan","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
-        {"key":"秒搜","name":"秒搜|4K","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://proxy.api.030101.xyz/https://miaosou.fun","style":{"type":"list","ratio":1.1}},
+        {"key":"秒搜","name":"秒搜|4K","type":3,"api":"csp_MiaoSou","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://miaosou.fun$$$127.0.0.1:10071","style":{"type":"list","ratio":1.1}},
         {"key":"Hdhive","name":"影巢|4K","type":3,"api":"csp_Hdhive","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$1"},
         {"key":"88Pan","name":"88盘|4K","type":3,"api":"csp_EightEight","timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://662688.xyz"},
         {"key":"PikaSo","name":"皮卡|4K","type":3,"api":"csp_PikaSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.pikaso.top/$$$null"},
