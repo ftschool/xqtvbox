@@ -50,7 +50,7 @@
 "wgcf_ipport":"162.159.195.199:8742",
 "wgcf_xray_url":"./xray.gz",
 "wgcf_geoip_url":"./geoip.dat.gz",
-"wgcf_json_url":"https://raw.githubusercontent.com/ftschool/live/main/wgcf.json",
+"wgcf_json_url":"./wgcf.json",
 "wgcf_vless_id":"de44b044-8f90-4e18-b742-16591667ff96",
 "wgcf_vless_optname":"118.193.35.29:443",
 "wgcf_vless_worker":"edgetunnel-free.pages.dev",
