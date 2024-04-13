@@ -113,7 +113,7 @@
         {"key":"金鱼影视","name":"金鱼|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/金鱼影视.json"},
         {"key":"酷看","name":"酷看|2K","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
         {"key":"nm","name":"农民|2K","type":3,"api":"csp_WebNM","searchable":1,"quickSearch":0,"filterable":0,"jar":"./lib/YSZYZ.jar","ext":"https://v.nmvod.cn"},
-        {"key":"机器人","name":"机器|2K","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/wyog.jar"},
+        //{"key":"机器人","name":"机器|2K","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/wyog.jar"},
         {"key":"萌米","name":"萌米|2K","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"changeable":1,"playerType":1,"timeout":15,"jar":"./lib/fty.jar","ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
         {"key":"csp_XBPQ_cddys","name":"蛋蛋|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/XBPQ.jar","ext":"{\"免嗅\":\"1\",\"主演\":\"主演:&&</div>\",\"简介\":\"class=\\\"module-info-introduction-contentshow-desc\\\"&&</div>\",\"副标题\":\"class=\\\"module-item-note\\\">&&</div>\",\"线路数组\":\"class=\\\"module-tab-item tab-item&&</div>\",\"线路标题\":\"<span>&&</small>\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://cddys.me/vodshow/{cateId}--------{catePg}---.html\"}"},
         {"key":"天天","name":"天天|2K","type":3,"api":"csp_TTian","playerType":1,"searchable":1,"changeable":1,"jar":"./lib/pg.jar","ext":"http://op.ysdqjs.cn$$$null$$$1"},
