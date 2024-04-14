@@ -109,6 +109,7 @@
 	{"key":"奇趣影视","name":"奇趣|2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/奇趣影视.json"},
 	{"key":"厂长影视","name":"厂长|2K","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/厂长影视.json"},
 	{"key":"爱迪[V2]","name":"爱迪|2K","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./js/爱迪[V2].js"},
+	{"key":"kanke","name":"看客|2K","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":{"分类url":"https://kanke.cc/Type/{cateId}/page/{catePg}/year/{year}","分类":"剧库$1#番剧$4#纪录$3#影库$2"}},
 	//{"key":"csp_CandyMuj_hjtv","name":"韩剧|2K","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/candymuj.jar"},
         //{"key":"在线之家","name":"在线|2K","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fty.jar","ext":"https://www.zxzja.com/"},
         {"key":"原创","name":"原创|2K","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fty.jar"},
