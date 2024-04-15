@@ -53,7 +53,7 @@
       "dtUrlIdR": "/(S+).html",
       "dtUrlName": "/text()",
       "dtUrlNameR": "",
-      "playUrl": "https://proxy.api.030101.xyz/https://m.nmddd.com/{playUrl}",
+      "playUrl": "https://m.nmddd.com/{playUrl}",
       "playUa": "",
       "searchUrl": "https://proxy.api.030101.xyz/https://m.nmddd.com/index.php?m=vod-search&wd={wd}",
       "scVodNode": "//ul[@class='ulPicTxt clearfix']/li",
