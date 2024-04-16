@@ -109,6 +109,7 @@
         {"key":"爱迪[V2]","name":"爱迪|2K","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./js/爱迪[V2].js"},
         {"key":"kanke","name":"看客|2K","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":{"分类url":"https://kanke.cc/Type/{cateId}/page/{catePg}/year/{year}","分类":"剧库$1#番剧$4#纪录$3#影库$2"}},
         {"key":"JOJO弹幕版","name":"JOJO|2K","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ok.jar","ext":{"danmu":true},"timeout":10},
+	{"key":"csp_XYQBiu_骚火电影VIP","name":"骚火VIP|2K","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/骚火电影VIP.json"},
 	//{"key":"csp_CandyMuj_hjtv","name":"韩剧|2K","type":3,"api":"csp_CandyMuj_hjtv","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/candymuj.jar"},
         //{"key":"在线之家","name":"在线|2K","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/fan.jar","ext":"https://www.zxzja.com/"},
         {"key":"原创","name":"原创|2K","type":3,"api":"csp_YCyz","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.jar"},
