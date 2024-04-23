@@ -93,6 +93,7 @@
         {"key":"賤賤","name":"荐片|磁","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"jar":"./lib/pg.jar","ext":"./lib/jianpian.json"},
         {"key":"Bt0","name":"不太灵|磁","type":3,"api":"csp_Bt0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"null$$$null$$$1"},
         {"key":"Wo4k","name":"wo4K|磁","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
+	{"key":"Wexciliso","name":"聚合搜|磁","type":3,"api":"csp_Wexciliso","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
 	//资源解析区
         {"key":"苹果","name":"苹果|2K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.jar"},
         {"key":"mingriyingshi","name":"明日|2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
@@ -149,6 +150,7 @@
         {"key":"蚂蚁","name":"蚂蚁|2K","type":3,"api":"csp_AppYsV2","jar":"./lib/小胡.jar","ext":"http://122.228.84.103:5822/api.php/app/"},
         {"key":"Wexduanjuvop","name":"短剧1","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Wexduanjuvmp","name":"短剧2","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
+	{"key":"Wexduanjuvip","name":"短剧3","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         //音乐欣赏区
         {"key":"Iktv","name":"🛰KTV","type":3,"api":"csp_WexIktv","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
         {"key":"Yinyuetai","name":"🛰音悦台MV","type":3,"api":"csp_WexYinyuetai","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
