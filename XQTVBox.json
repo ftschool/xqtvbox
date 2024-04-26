@@ -65,7 +65,7 @@
         {"key":"Xpanpan","name":"小盘|4K","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://xpanpan.site$$$null$$$1"},
         {"key":"AliShare","name":"影视|4K","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$./lib/alishare.txt$$$db$$$1","style":{"type":"list","ratio": 1.1}},
         {"key":"PushShare","name":"我的|4K","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-        {"key":"阿里云集合","name":"合集|4K","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"jar":"./lib/阿里合集0131.jar","ext":"./alitoken.txt"},
+        {"key":"阿里云集合","name":"合集|4K","type":3,"api":"csp_阿里云集合","searchable":1,"filterable":0,"switchable":0,"jar":"./lib/阿里合集0204.jar","ext":"./lib/阿里合集.json"},
         //{"key":"阿里合集","name":"集合|4K","type":3,"api":"csp_AliShare","searchable":1,"changeable":0,"filterable":0,"indexs":0,"jar":"./lib/ok.jar","ext": {"token":"file://TV/ali_token.txt","share":"file://TV/阿里集合.json"},"style":{"type":"list"},"timeout":30},
 	{"key":"美剧迷","name":"美迷|2K","type":3,"api":"csp_Meijumi","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.meijumi.xyz/$$$null$$$1"},
         {"key":"Moli","name":"魔力|2K","type":3,"api":"csp_Moli","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.hdmoli.pro/$$$null$$$1$$$./lib/moli.json"},
