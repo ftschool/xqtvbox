@@ -87,7 +87,6 @@
         {"key":"4KHDR","name":"4KHDR|盘/磁","type":3,"api":"csp_XYQHikerAL","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/4KHDR.json"},
         {"key":"电影港","name":"港港|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/电影港磁力.json"},
         {"key":"BT天堂","name":"BT天堂|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/BT天堂.json"},
-        {"key":"BT","name":"BT之家|磁","type":3,"api":"csp_Wexbtbbt","searchable":1,"changeable":0,"style":{"type":"list","ratio":1},"jar":"./lib/wex.jar"},
 	//{"key":"极影网","name":"极影|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/极影网.json"},
         //{"key":"高清MP4","name":"高清MP4|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/高清MP4.json"},
         //{"key":"蚂蚁4K","name":"蚂蚁4K|磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/蚂蚁4K.json"},
