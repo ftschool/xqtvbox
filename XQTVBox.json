@@ -137,7 +137,7 @@
         {"key":"石榴影视","name":"石榴|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/石榴电影.json"},
         {"key":"zy_iKun资源","name":"iKun|2K","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","家庭片","古装片","历史片","悬疑片","犯罪片","灾难片","记录片","短片","动画片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日本动漫"]},
         {"key":"Vidhub视频库","name":"Vidhub|2K","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/Vidhub视频库.json"},
-        {"key":"Czsapp","name":"厂长|2K","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"jar":"./lib/fan.jar","ext":"https://www.cz233.com/"},
+        {"key":"Czsapp","name":"厂长|2K","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"jar":"./lib/fan.jar","ext":"https://www.czys.top/"},
         //{"key":"厂长弹幕版","name":"厂长|2K","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ok.jar","ext":{"danmu":true},"timeout":25},
 	//{"key":"厂长影视","name":"厂长|2K","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XQHiker/厂长影视.json"},
         //{"key":"厂长","name":"厂长|2K","type":3,"api":"csp_XBPQ","playerType":"2","jar":"./lib/XBPQ.jar","ext":"./lib/厂长影视.json"},
