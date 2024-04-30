@@ -94,7 +94,7 @@
         {"key":"drpy_js_磁力熊[磁]","name":"磁力熊|磁","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./js/磁力熊.js"},
         {"key":"賤賤","name":"荐片|磁","type":3,"api":"csp_Jianpian","searchable":1,"changeable":1,"jar":"./lib/pg.jar","ext":"./lib/jianpian.json"},
         {"key":"Bt0","name":"不太灵|磁","type":3,"api":"csp_Bt0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"null$$$null$$$1"},
-        {"key":"Wo4k","name":"wo4K|磁","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.wo4k.com/$$$proxy$$$1$$$./lib/wogg.json"},
+        {"key":"Wo4k","name":"wo4K|磁","type":3,"api":"csp_Wo4k","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"},
         {"key":"布谷TV","name":"布谷|磁","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/XBPQ.jar","ext":"./lib/布谷TV.json"},
         {"key":"Wexciliso","name":"聚合搜|磁","type":3,"api":"csp_Wexciliso","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
         //资源解析区
