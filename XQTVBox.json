@@ -151,7 +151,6 @@
         //{"key":"baipiaoys","name":"白嫖|2K","type":3,"api":"csp_XBPQ","changeable":1,"searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","jar":"./lib/XBPQ.jar","ext":"./lib/baipiao.json"},
         {"key":"白嫖","name":"白嫖|2K","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.jar","ext":"https://www.baipiaoys.com:9092/"},
         {"key":"Xinshijue","name":"视觉|2K","type":3,"api":"csp_Xinshijue","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$https://www.80yy3.com/$$$null$$$1$$$./lib/wogg.json"},
-        {"key":"蚂蚁","name":"蚂蚁|2K","type":3,"api":"csp_AppYsV2","jar":"./lib/小胡.jar","ext":"http://122.228.84.103:5822/api.php/app/"},
         {"key":"Wexduanjuvop","name":"短剧1","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Wexduanjuvmp","name":"短剧2","type":3,"api":"csp_Wexduanjuvmp","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Wexduanjuvip","name":"短剧3","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
@@ -161,9 +160,6 @@
         {"key":"酷奇","name":"🎤酷奇MV","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":1},
         {"key":"MTV","name":"🎧明星MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.jar","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"},
         {"key":"Wexliyuan","name":"🎎戏曲","type":3,"api":"csp_Wexliyuan","searchable":1,"changeable":0,"style":{"type":"rect","ratio":2},"jar":"./lib/wex.jar"}
-    ],
-    "parses":[
-        {"name":"蚂蚁","type":0,"url":"http://103.233.255.142:1133/?url=","ext":{"flag":["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}}
     ],
     "ijk":[
         {"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
