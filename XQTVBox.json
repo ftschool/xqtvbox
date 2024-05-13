@@ -75,7 +75,8 @@
         {"key":"push_agent","name":"📽推送","type":3,"api":"csp_Push","changeable":0,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         //磁力资源区
         //{"key":"csp_Mp4Mov","name":"Mp4|磁","type":3,"api":"csp_Mp4Mov","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"MP4us","name":"Mp4|磁","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":"./lib/MP4电影.json"},
+        //{"key":"MP4us","name":"Mp4|磁","type":3,"api":"csp_XBPQ","jar":"./lib/XBPQ.jar","ext":"./lib/MP4电影.json"},
+	{"key":"drpy_js_Mp4[磁]","name":"Mp4|磁","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./js/mp4us.js"},
 	{"key":"MP4","name":"1080P|磁","type":3,"api":"csp_XBPQ","playerType":"2","jar":"./lib/XBPQ.jar","ext":"./lib/1080P.json"},
         {"key":"csp_New6v","name":"新6V|磁","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
         {"key":"csp_SeedHub","name":"SeedHub|磁","type":3,"api":"csp_SeedHub","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
