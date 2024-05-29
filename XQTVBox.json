@@ -1,7 +1,6 @@
 {
     "wallpaper":"https://picsum.photos/1280/720/?blur=2",
     "spider":"./XQ.jar",
-    "logo":"https://gitee.com/ftschool/xqtvbox/raw/main/lib/logo.gif",
     "lives":[
         {"name":"live","type":0,"url":"./live.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://proxy.api.030101.xyz/https://epg.112114.xyz/?ch={name}&date={date}","logo":"https://proxy.api.030101.xyz/https://epg.112114.xyz/logo/{name}.png"}
     ],
