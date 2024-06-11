@@ -111,7 +111,8 @@
         //资源解析区
         {"key":"苹果","name":"苹果|2K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.jar"},
         {"key":"开心影视","name":"开心|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json","jar":"./lib/XBPQ(原).jar"},
-        {"key":"皮皮影视吧","name":"皮皮|2K","type":3,"api":"csp_XBPQ","playerType":"2","jar":"./lib/XBPQ.jar","ext":"./lib/皮皮影视吧.json"},
+        {"key":"剧圈圈","name":"剧圈圈|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ttkx.jar","ext":"./lib/剧圈圈.json"},
+	{"key":"皮皮影视吧","name":"皮皮|2K","type":3,"api":"csp_XBPQ","playerType":"2","jar":"./lib/XBPQ.jar","ext":"./lib/皮皮影视吧.json"},
 	{"key":"mingriyingshi","name":"明日|2K","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Diduanys","name":"深渊|2K","type":3,"api":"csp_WexDiduanys","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"F4kvm","name":"纯享|2K","type":3,"api":"csp_WexF4kvm","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
