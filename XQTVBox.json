@@ -8,6 +8,7 @@
         {"key":"drpy_js_豆瓣","name":"❤小青影视❤切勿传播！","type":3,"api":"./drpy_js/libs/drpy2.min.js","ext":"./drpy_js/js/drpy.js"},
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         //网盘资源区
+	{"key":"Wexhuaruitv","name":"花蕊|4K","type":3,"api":"csp_Wexhuaruitv","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"网盘配置","name":"📀网盘及弹幕配置","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"csp_appys_影盒","name":"影探|4K","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/yt.jar","ext":"http://cms-ytmh.lyyytv.cn/api.php/app/"},
         {"key":"Fangniu4k","name":"放牛|4K","type":3,"api":"csp_WexFangniu4k","searchable":1,"changeable":0,"jar":"./lib/wex.jar"},
@@ -113,7 +114,6 @@
         //资源解析区
         {"key":"苹果","name":"苹果|2K","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./lib/fan.jar"},
         {"key":"开心影视","name":"开心|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json","jar":"./lib/XBPQ(原).jar"},
-        {"key":"Wexhuaruitv","name":"花蕊|2K","type":3,"api":"csp_Wexhuaruitv","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
         {"key":"Wexjiazitv","name":"甲子|2K","type":3,"api":"csp_Wexjiazitv","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
 	{"key":"Wexjiohub","name":"JOJO|2K","type":3,"api":"csp_Wexjiohub","searchable":1,"changeable":1,"jar":"./lib/wex.jar"},
 	{"key":"剧圈圈","name":"剧圈圈|2K","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./lib/ttkx.jar","ext":"./lib/剧圈圈.json"},
