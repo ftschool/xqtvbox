@@ -25,7 +25,7 @@
         {"key":"Wexyingso","name":"影搜|4K","type":3,"api":"csp_Wexyingso","searchable":1,"changeable":0,"jar":"./lib/wex.jar","ext":"./alitoken.txt"},
         {"key":"YunPan","name":"资源|4K","type":3,"api":"csp_YunPan","timeout":60,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json$$$null$$$proxy$$$1"},
         {"key":"Wexed3000","name":"易迪|4K","type":3,"api":"csp_Wexed3000","searchable":1,"changeable":0,"jar":"./lib/wex.jar","ext":"./alitoken.txt"},
-        {"key":"csp_Upyunso","name":"UP云|4K","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"jar":"./lib/ttkx.jar","ext":"./alitoken.txt"},
+        {"key":"csp_Upyunso","name":"UP云|4K","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"./alitoken.txt"},
         {"key":"Gitcafe","name":"纸条|4K","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./alitoken.txt"},
         //{"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"timeout":30,"jar":"./lib/pg.jar","ext":"./lib/tokenm.json"},
         {"key":"csp_Zhaozy","name":"找源|4K","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"username\":\"rrodoxuezc@iubridge.com\",\"password\":\"000mmm\",\"searchurl\":\"https://zhaoziyuan1.cc/so?filename={wd}\"}"},
