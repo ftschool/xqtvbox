@@ -1,0 +1,15 @@
+{
+  "vodPic":"https://s1.ax1x.com/2023/05/04/p9tgI81.png",
+  "drives":[
+           {"name":"🤱小雅1","server":"http://60.205.200.121:5344/"},
+  	   {"name":"🎆小雅2","server":"http://61.134.67.189:5678/"},
+   	   {"name":"开心影视","server":"http://ttkx.live:5244","hidden":true,"login":{"username":"ttkx","password":"aa123456"}},
+           {"name":"💢ECVE网盘","server":"https://pan.ecve.cn"},
+	   {"name":"🔰雨呢","server":"https://pan.clun.top"},
+           {"name":"🐳星梦","server":"https://pan.bashroot.top"},
+           {"name":"🐜蚂蚁","server":"https://pan.mediy.cn"},
+           {"name":"🔋挺好","server":"https://pan.ztha.top"},
+           {"name":"♻️七米藍","server":"https://al.chirmyram.com/"}, 
+           {"name":"⚖托盘","server":"https://pan.mediy.cn/"}
+           ]
+}
