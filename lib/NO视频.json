@@ -4,7 +4,7 @@
         "标题": "title=\"&&\"",
         "副标题": "text-right\">&&</span>",
         "链接": "href=\"&&\"",
-        "搜索url": "https://www.dgjiawu.com/se-1zxgt/{wd}-1",
+        "搜索url": "https://www.dgjiawu.com/se-1zxgt/{wd}-{pg}",
         "起始页":"2",
         "线路标题": "NO视频",
         "播放数组": "class=\"*-div&&</div>",
