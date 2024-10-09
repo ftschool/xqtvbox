@@ -21,7 +21,6 @@
     "分类片单链接加后缀": "",
     "搜索请求头参数": "User-Agent$PC_UA",
     "搜索链接": "https://www.subaibaiys.com/?s={wd}",
-    //"POST请求数据": "wd={wd}&search=",
     "搜索截取模式": "1",
     "搜索列表数组规则": ".search_list&&ul&&li",
     "搜索片单是否Jsoup写法": "1",
